@@ -1,0 +1,1393 @@
+{
+    "entry_id": 6,
+    "path": "N:\\FRPG\\data\\INTERROOT_x64\\param\\GameParam\\EquipMtrlSetParam.param",
+    "flags": 2,
+    "data": {
+        "param_type": "EQUIP_MTRL_SET_PARAM_ST",
+        "big_endian": false,
+        "unknown": 0,
+        "paramdef_data_version": 1,
+        "flags1": 2,
+        "flags2": 0,
+        "paramdef_format_version": 0,
+        "undecodable_row_names": [],
+        "rows": {
+            "0": {
+                "name": "\u57fa\u672c"
+            },
+            "1": {
+                "name": "\u57fa\u672c\uff0b\uff11",
+                "materialId01": 1000,
+                "itemNum01": 1
+            },
+            "2": {
+                "name": "\u57fa\u672c\uff0b\uff12",
+                "materialId01": 1000,
+                "itemNum01": 1
+            },
+            "3": {
+                "name": "\u57fa\u672c\uff0b\uff13",
+                "materialId01": 1000,
+                "itemNum01": 2
+            },
+            "4": {
+                "name": "\u57fa\u672c\uff0b\uff14",
+                "materialId01": 1000,
+                "itemNum01": 2
+            },
+            "5": {
+                "name": "\u57fa\u672c\uff0b\uff15",
+                "materialId01": 1000,
+                "itemNum01": 3
+            },
+            "6": {
+                "name": "\u57fa\u672c\uff0b\uff16",
+                "materialId01": 1010,
+                "itemNum01": 1
+            },
+            "7": {
+                "name": "\u57fa\u672c\uff0b\uff17",
+                "materialId01": 1010,
+                "itemNum01": 1
+            },
+            "8": {
+                "name": "\u57fa\u672c\uff0b\uff18",
+                "materialId01": 1010,
+                "itemNum01": 2
+            },
+            "9": {
+                "name": "\u57fa\u672c\uff0b\uff19",
+                "materialId01": 1010,
+                "itemNum01": 2
+            },
+            "10": {
+                "name": "\u57fa\u672c\uff0b\uff11\uff10",
+                "materialId01": 1010,
+                "itemNum01": 3
+            },
+            "11": {
+                "name": "\u57fa\u672c\uff0b\uff11\uff11",
+                "materialId01": 1030,
+                "itemNum01": 1
+            },
+            "12": {
+                "name": "\u57fa\u672c\uff0b\uff11\uff12",
+                "materialId01": 1030,
+                "itemNum01": 1
+            },
+            "13": {
+                "name": "\u57fa\u672c\uff0b\uff11\uff13",
+                "materialId01": 1030,
+                "itemNum01": 2
+            },
+            "14": {
+                "name": "\u57fa\u672c\uff0b\uff11\uff14",
+                "materialId01": 1030,
+                "itemNum01": 3
+            },
+            "15": {
+                "name": "\u57fa\u672c\uff0b\uff11\uff15",
+                "materialId01": 1070,
+                "itemNum01": 1
+            },
+            "100": {
+                "name": "\u7d50\u6676",
+                "materialId01": 1030,
+                "itemNum01": 1
+            },
+            "101": {
+                "name": "\u7d50\u6676\uff0b\uff11",
+                "materialId01": 1030,
+                "itemNum01": 1
+            },
+            "102": {
+                "name": "\u7d50\u6676\uff0b\uff12",
+                "materialId01": 1030,
+                "itemNum01": 1
+            },
+            "103": {
+                "name": "\u7d50\u6676\uff0b\uff13",
+                "materialId01": 1030,
+                "itemNum01": 2
+            },
+            "104": {
+                "name": "\u7d50\u6676\uff0b\uff14",
+                "materialId01": 1030,
+                "itemNum01": 3
+            },
+            "105": {
+                "name": "\u7d50\u6676\uff0b\uff15",
+                "materialId01": 1070,
+                "itemNum01": 1
+            },
+            "200": {
+                "name": "\u96f7",
+                "materialId01": 1030,
+                "itemNum01": 1
+            },
+            "201": {
+                "name": "\u96f7\uff0b\uff11",
+                "materialId01": 1030,
+                "itemNum01": 1
+            },
+            "202": {
+                "name": "\u96f7\uff0b\uff12",
+                "materialId01": 1030,
+                "itemNum01": 1
+            },
+            "203": {
+                "name": "\u96f7\uff0b\uff13",
+                "materialId01": 1030,
+                "itemNum01": 2
+            },
+            "204": {
+                "name": "\u96f7\uff0b\uff14",
+                "materialId01": 1030,
+                "itemNum01": 3
+            },
+            "205": {
+                "name": "\u96f7\uff0b\uff15",
+                "materialId01": 1070,
+                "itemNum01": 1
+            },
+            "300": {
+                "name": "\u7c97\u88fd",
+                "materialId01": 1010,
+                "itemNum01": 1
+            },
+            "301": {
+                "name": "\u7c97\u88fd\uff0b\uff11",
+                "materialId01": 1010,
+                "itemNum01": 1
+            },
+            "302": {
+                "name": "\u7c97\u88fd\uff0b\uff12",
+                "materialId01": 1010,
+                "itemNum01": 1
+            },
+            "303": {
+                "name": "\u7c97\u88fd\uff0b\uff13",
+                "materialId01": 1010,
+                "itemNum01": 2
+            },
+            "304": {
+                "name": "\u7c97\u88fd\uff0b\uff14",
+                "materialId01": 1010,
+                "itemNum01": 2
+            },
+            "305": {
+                "name": "\u7c97\u88fd\uff0b\uff15",
+                "materialId01": 1010,
+                "itemNum01": 3
+            },
+            "400": {
+                "name": "\u9b54\u6cd5\uff21",
+                "materialId01": 1020,
+                "itemNum01": 1
+            },
+            "401": {
+                "name": "\u9b54\u6cd5\uff21\uff0b\uff11",
+                "materialId01": 1020,
+                "itemNum01": 1
+            },
+            "402": {
+                "name": "\u9b54\u6cd5\uff21\uff0b\uff12",
+                "materialId01": 1020,
+                "itemNum01": 1
+            },
+            "403": {
+                "name": "\u9b54\u6cd5\uff21\uff0b\uff13",
+                "materialId01": 1020,
+                "itemNum01": 2
+            },
+            "404": {
+                "name": "\u9b54\u6cd5\uff21\uff0b\uff14",
+                "materialId01": 1020,
+                "itemNum01": 2
+            },
+            "405": {
+                "name": "\u9b54\u6cd5\uff21\uff0b\uff15",
+                "materialId01": 1020,
+                "itemNum01": 3
+            },
+            "406": {
+                "name": "\u9b54\u6cd5\uff21\uff0b\uff16",
+                "materialId01": 1040,
+                "itemNum01": 1
+            },
+            "407": {
+                "name": "\u9b54\u6cd5\uff21\uff0b\uff17",
+                "materialId01": 1040,
+                "itemNum01": 1
+            },
+            "408": {
+                "name": "\u9b54\u6cd5\uff21\uff0b\uff18",
+                "materialId01": 1040,
+                "itemNum01": 2
+            },
+            "409": {
+                "name": "\u9b54\u6cd5\uff21\uff0b\uff19",
+                "materialId01": 1040,
+                "itemNum01": 3
+            },
+            "410": {
+                "name": "\u9b54\u6cd5\uff21\uff0b\uff11\uff10",
+                "materialId01": 1080,
+                "itemNum01": 1
+            },
+            "500": {
+                "name": "\u9b54\u6cd5B",
+                "materialId01": 1040,
+                "itemNum01": 1
+            },
+            "501": {
+                "name": "\u9b54\u6cd5B\uff0b\uff11",
+                "materialId01": 1040,
+                "itemNum01": 1
+            },
+            "502": {
+                "name": "\u9b54\u6cd5B\uff0b\uff12",
+                "materialId01": 1040,
+                "itemNum01": 1
+            },
+            "503": {
+                "name": "\u9b54\u6cd5B\uff0b\uff13",
+                "materialId01": 1040,
+                "itemNum01": 2
+            },
+            "504": {
+                "name": "\u9b54\u6cd5B\uff0b\uff14",
+                "materialId01": 1040,
+                "itemNum01": 3
+            },
+            "505": {
+                "name": "\u9b54\u6cd5B\uff0b\uff15",
+                "materialId01": 1080,
+                "itemNum01": 1
+            },
+            "600": {
+                "name": "\u795e\u8056",
+                "materialId01": 1020,
+                "itemNum01": 1
+            },
+            "601": {
+                "name": "\u795e\u8056\uff0b\uff11",
+                "materialId01": 1020,
+                "itemNum01": 1
+            },
+            "602": {
+                "name": "\u795e\u8056\uff0b\uff12",
+                "materialId01": 1020,
+                "itemNum01": 1
+            },
+            "603": {
+                "name": "\u795e\u8056\uff0b\uff13",
+                "materialId01": 1020,
+                "itemNum01": 2
+            },
+            "604": {
+                "name": "\u795e\u8056\uff0b\uff14",
+                "materialId01": 1020,
+                "itemNum01": 2
+            },
+            "605": {
+                "name": "\u795e\u8056\uff0b\uff15",
+                "materialId01": 1020,
+                "itemNum01": 3
+            },
+            "606": {
+                "name": "\u795e\u8056\uff0b\uff16",
+                "materialId01": 1050,
+                "itemNum01": 1
+            },
+            "607": {
+                "name": "\u795e\u8056\uff0b\uff17",
+                "materialId01": 1050,
+                "itemNum01": 1
+            },
+            "608": {
+                "name": "\u795e\u8056\uff0b\uff18",
+                "materialId01": 1050,
+                "itemNum01": 2
+            },
+            "609": {
+                "name": "\u795e\u8056\uff0b\uff19",
+                "materialId01": 1050,
+                "itemNum01": 3
+            },
+            "610": {
+                "name": "\u795e\u8056\uff0b\uff11\uff10",
+                "materialId01": 1090,
+                "itemNum01": 1
+            },
+            "700": {
+                "name": "\u6697\u9ed2",
+                "materialId01": 1050,
+                "itemNum01": 1
+            },
+            "701": {
+                "name": "\u6697\u9ed2\uff0b\uff11",
+                "materialId01": 1050,
+                "itemNum01": 1
+            },
+            "702": {
+                "name": "\u6697\u9ed2\uff0b\uff12",
+                "materialId01": 1050,
+                "itemNum01": 1
+            },
+            "703": {
+                "name": "\u6697\u9ed2\uff0b\uff13",
+                "materialId01": 1050,
+                "itemNum01": 2
+            },
+            "704": {
+                "name": "\u6697\u9ed2\uff0b\uff14",
+                "materialId01": 1050,
+                "itemNum01": 3
+            },
+            "705": {
+                "name": "\u6697\u9ed2\uff0b\uff15",
+                "materialId01": 1090,
+                "itemNum01": 1
+            },
+            "800": {
+                "name": "\u708e",
+                "materialId01": 1020,
+                "itemNum01": 1
+            },
+            "801": {
+                "name": "\u708e\uff0b\uff11",
+                "materialId01": 1020,
+                "itemNum01": 1
+            },
+            "802": {
+                "name": "\u708e\uff0b\uff12",
+                "materialId01": 1020,
+                "itemNum01": 1
+            },
+            "803": {
+                "name": "\u708e\uff0b\uff13",
+                "materialId01": 1020,
+                "itemNum01": 2
+            },
+            "804": {
+                "name": "\u708e\uff0b\uff14",
+                "materialId01": 1020,
+                "itemNum01": 2
+            },
+            "805": {
+                "name": "\u708e\uff0b\uff15",
+                "materialId01": 1020,
+                "itemNum01": 3
+            },
+            "806": {
+                "name": "\u708e\uff0b\uff16",
+                "materialId01": 1060,
+                "itemNum01": 1
+            },
+            "807": {
+                "name": "\u708e\uff0b\uff17",
+                "materialId01": 1060,
+                "itemNum01": 1
+            },
+            "808": {
+                "name": "\u708e\uff0b\uff18",
+                "materialId01": 1060,
+                "itemNum01": 2
+            },
+            "809": {
+                "name": "\u708e\uff0b\uff19",
+                "materialId01": 1060,
+                "itemNum01": 3
+            },
+            "810": {
+                "name": "\u708e\uff0b\uff11\uff10",
+                "materialId01": 1100,
+                "itemNum01": 1
+            },
+            "900": {
+                "name": "\u6df7\u6c8c\u306e\u708e",
+                "materialId01": 1060,
+                "itemNum01": 1
+            },
+            "901": {
+                "name": "\u6df7\u6c8c\u306e\u708e\uff0b\uff11",
+                "materialId01": 1060,
+                "itemNum01": 1
+            },
+            "902": {
+                "name": "\u6df7\u6c8c\u306e\u708e\uff0b\uff12",
+                "materialId01": 1060,
+                "itemNum01": 1
+            },
+            "903": {
+                "name": "\u6df7\u6c8c\u306e\u708e\uff0b\uff13",
+                "materialId01": 1060,
+                "itemNum01": 2
+            },
+            "904": {
+                "name": "\u6df7\u6c8c\u306e\u708e\uff0b\uff14",
+                "materialId01": 1060,
+                "itemNum01": 3
+            },
+            "905": {
+                "name": "\u6df7\u6c8c\u306e\u708e\uff0b\uff15",
+                "materialId01": 1100,
+                "itemNum01": 1
+            },
+            "1000": {
+                "name": "\u30ea\u30bb\u30c3\u30c8"
+            },
+            "1100": {
+                "name": "\u30c9\u30e9\u30b4\u30f3\u5f37\u5316"
+            },
+            "1101": {
+                "name": "\u30c9\u30e9\u30b4\u30f3\u5f37\u5316\uff0b\uff11",
+                "materialId01": 1110,
+                "itemNum01": 1
+            },
+            "1102": {
+                "name": "\u30c9\u30e9\u30b4\u30f3\u5f37\u5316\uff0b\uff12",
+                "materialId01": 1110,
+                "itemNum01": 1
+            },
+            "1103": {
+                "name": "\u30c9\u30e9\u30b4\u30f3\u5f37\u5316\uff0b\uff13",
+                "materialId01": 1110,
+                "itemNum01": 2
+            },
+            "1104": {
+                "name": "\u30c9\u30e9\u30b4\u30f3\u5f37\u5316\uff0b\uff14",
+                "materialId01": 1110,
+                "itemNum01": 2
+            },
+            "1105": {
+                "name": "\u30c9\u30e9\u30b4\u30f3\u5f37\u5316\uff0b\uff15",
+                "materialId01": 1110,
+                "itemNum01": 4
+            },
+            "1200": {
+                "name": "\u7279\u5225\u5f37\u5316"
+            },
+            "1201": {
+                "name": "\u7279\u5225\u5f37\u5316\uff0b\uff11",
+                "materialId01": 1130,
+                "itemNum01": 1
+            },
+            "1202": {
+                "name": "\u7279\u5225\u5f37\u5316\uff0b\uff12",
+                "materialId01": 1130,
+                "itemNum01": 1
+            },
+            "1203": {
+                "name": "\u7279\u5225\u5f37\u5316\uff0b\uff13",
+                "materialId01": 1130,
+                "itemNum01": 2
+            },
+            "1204": {
+                "name": "\u7279\u5225\u5f37\u5316\uff0b\uff14",
+                "materialId01": 1130,
+                "itemNum01": 2
+            },
+            "1205": {
+                "name": "\u7279\u5225\u5f37\u5316\uff0b\uff15",
+                "materialId01": 1130,
+                "itemNum01": 4
+            },
+            "1300": {
+                "name": "\u8ee2\u8077",
+                "materialId01": 701,
+                "itemNum01": 1,
+                "isDisableDispNum01:1": true
+            },
+            "1301": {
+                "name": "\u5f37\u5316\uff0b\uff11",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "1302": {
+                "name": "\u5f37\u5316\uff0b\uff12",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "1303": {
+                "name": "\u5f37\u5316\uff0b\uff13",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "1304": {
+                "name": "\u5f37\u5316\uff0b\uff14",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "1305": {
+                "name": "\u5f37\u5316\uff0b\uff15",
+                "materialId01": 1120,
+                "itemNum01": 4
+            },
+            "1400": {
+                "name": "\u8ee2\u8077",
+                "materialId01": 702,
+                "itemNum01": 1,
+                "isDisableDispNum01:1": true
+            },
+            "1401": {
+                "name": "\u5f37\u5316\uff0b\uff11",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "1402": {
+                "name": "\u5f37\u5316\uff0b\uff12",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "1403": {
+                "name": "\u5f37\u5316\uff0b\uff13",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "1404": {
+                "name": "\u5f37\u5316\uff0b\uff14",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "1405": {
+                "name": "\u5f37\u5316\uff0b\uff15",
+                "materialId01": 1120,
+                "itemNum01": 4
+            },
+            "1500": {
+                "name": "\u8ee2\u8077",
+                "materialId01": 700,
+                "itemNum01": 1,
+                "isDisableDispNum01:1": true
+            },
+            "1501": {
+                "name": "\u5f37\u5316\uff0b\uff11",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "1502": {
+                "name": "\u5f37\u5316\uff0b\uff12",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "1503": {
+                "name": "\u5f37\u5316\uff0b\uff13",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "1504": {
+                "name": "\u5f37\u5316\uff0b\uff14",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "1505": {
+                "name": "\u5f37\u5316\uff0b\uff15",
+                "materialId01": 1120,
+                "itemNum01": 4
+            },
+            "1600": {
+                "name": "\u8ee2\u8077",
+                "materialId01": 704,
+                "itemNum01": 1,
+                "isDisableDispNum01:1": true
+            },
+            "1601": {
+                "name": "\u5f37\u5316\uff0b\uff11",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "1602": {
+                "name": "\u5f37\u5316\uff0b\uff12",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "1603": {
+                "name": "\u5f37\u5316\uff0b\uff13",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "1604": {
+                "name": "\u5f37\u5316\uff0b\uff14",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "1605": {
+                "name": "\u5f37\u5316\uff0b\uff15",
+                "materialId01": 1120,
+                "itemNum01": 4
+            },
+            "1700": {
+                "name": "\u8ee2\u8077",
+                "materialId01": 705,
+                "itemNum01": 1,
+                "isDisableDispNum01:1": true
+            },
+            "1701": {
+                "name": "\u5f37\u5316\uff0b\uff11",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "1702": {
+                "name": "\u5f37\u5316\uff0b\uff12",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "1703": {
+                "name": "\u5f37\u5316\uff0b\uff13",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "1704": {
+                "name": "\u5f37\u5316\uff0b\uff14",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "1705": {
+                "name": "\u5f37\u5316\uff0b\uff15",
+                "materialId01": 1120,
+                "itemNum01": 4
+            },
+            "1800": {
+                "name": "\u8ee2\u8077",
+                "materialId01": 703,
+                "itemNum01": 1,
+                "isDisableDispNum01:1": true
+            },
+            "1801": {
+                "name": "\u5f37\u5316\uff0b\uff11",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "1802": {
+                "name": "\u5f37\u5316\uff0b\uff12",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "1803": {
+                "name": "\u5f37\u5316\uff0b\uff13",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "1804": {
+                "name": "\u5f37\u5316\uff0b\uff14",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "1805": {
+                "name": "\u5f37\u5316\uff0b\uff15",
+                "materialId01": 1120,
+                "itemNum01": 4
+            },
+            "1900": {
+                "name": "\u8ee2\u8077",
+                "materialId01": 706,
+                "itemNum01": 1,
+                "isDisableDispNum01:1": true
+            },
+            "1901": {
+                "name": "\u5f37\u5316\uff0b\uff11",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "1902": {
+                "name": "\u5f37\u5316\uff0b\uff12",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "1903": {
+                "name": "\u5f37\u5316\uff0b\uff13",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "1904": {
+                "name": "\u5f37\u5316\uff0b\uff14",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "1905": {
+                "name": "\u5f37\u5316\uff0b\uff15",
+                "materialId01": 1120,
+                "itemNum01": 4
+            },
+            "2000": {
+                "name": "\u8ee2\u8077",
+                "materialId01": 707,
+                "itemNum01": 1,
+                "isDisableDispNum01:1": true
+            },
+            "2001": {
+                "name": "\u5f37\u5316\uff0b\uff11",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "2002": {
+                "name": "\u5f37\u5316\uff0b\uff12",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "2003": {
+                "name": "\u5f37\u5316\uff0b\uff13",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "2004": {
+                "name": "\u5f37\u5316\uff0b\uff14",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "2005": {
+                "name": "\u5f37\u5316\uff0b\uff15",
+                "materialId01": 1120,
+                "itemNum01": 4
+            },
+            "2100": {
+                "name": "\u8ee2\u8077",
+                "materialId01": 708,
+                "itemNum01": 1,
+                "isDisableDispNum01:1": true
+            },
+            "2101": {
+                "name": "\u5f37\u5316\uff0b\uff11",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "2102": {
+                "name": "\u5f37\u5316\uff0b\uff12",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "2103": {
+                "name": "\u5f37\u5316\uff0b\uff13",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "2104": {
+                "name": "\u5f37\u5316\uff0b\uff14",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "2105": {
+                "name": "\u5f37\u5316\uff0b\uff15",
+                "materialId01": 1120,
+                "itemNum01": 4
+            },
+            "2200": {
+                "name": "\u8ee2\u8077",
+                "materialId01": 703,
+                "itemNum01": 1,
+                "isDisableDispNum01:1": true
+            },
+            "2201": {
+                "name": "\u5f37\u5316\uff0b\uff11",
+                "materialId01": 1110,
+                "itemNum01": 1
+            },
+            "2202": {
+                "name": "\u5f37\u5316\uff0b\uff12",
+                "materialId01": 1110,
+                "itemNum01": 1
+            },
+            "2203": {
+                "name": "\u5f37\u5316\uff0b\uff13",
+                "materialId01": 1110,
+                "itemNum01": 2
+            },
+            "2204": {
+                "name": "\u5f37\u5316\uff0b\uff14",
+                "materialId01": 1110,
+                "itemNum01": 2
+            },
+            "2205": {
+                "name": "\u5f37\u5316\uff0b\uff15",
+                "materialId01": 1110,
+                "itemNum01": 4
+            },
+            "2300": {
+                "name": "\u8ee2\u8077"
+            },
+            "2301": {
+                "name": "\u5f37\u5316\uff0b\uff11",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "2302": {
+                "name": "\u5f37\u5316\uff0b\uff12",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "2303": {
+                "name": "\u5f37\u5316\uff0b\uff13",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "2304": {
+                "name": "\u5f37\u5316\uff0b\uff14",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "2305": {
+                "name": "\u5f37\u5316\uff0b\uff15",
+                "materialId01": 1120,
+                "itemNum01": 4
+            },
+            "2400": {
+                "name": "\u8ee2\u8077",
+                "materialId01": 710,
+                "itemNum01": 1,
+                "isDisableDispNum01:1": true
+            },
+            "2401": {
+                "name": "\u5f37\u5316\uff0b\uff11",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "2402": {
+                "name": "\u5f37\u5316\uff0b\uff12",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "2403": {
+                "name": "\u5f37\u5316\uff0b\uff13",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "2404": {
+                "name": "\u5f37\u5316\uff0b\uff14",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "2405": {
+                "name": "\u5f37\u5316\uff0b\uff15",
+                "materialId01": 1120,
+                "itemNum01": 4
+            },
+            "2500": {
+                "name": "\u8ee2\u8077",
+                "materialId01": 711,
+                "itemNum01": 1,
+                "isDisableDispNum01:1": true
+            },
+            "2501": {
+                "name": "\u5f37\u5316\uff0b\uff11",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "2502": {
+                "name": "\u5f37\u5316\uff0b\uff12",
+                "materialId01": 1120,
+                "itemNum01": 1
+            },
+            "2503": {
+                "name": "\u5f37\u5316\uff0b\uff13",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "2504": {
+                "name": "\u5f37\u5316\uff0b\uff14",
+                "materialId01": 1120,
+                "itemNum01": 2
+            },
+            "2505": {
+                "name": "\u5f37\u5316\uff0b\uff15",
+                "materialId01": 1120,
+                "itemNum01": 4
+            },
+            "3000": {
+                "name": "EN\u5f3e\uff21",
+                "materialId01": 3000,
+                "itemNum01": 1
+            },
+            "3010": {
+                "name": "EN\u5f3e\uff21\uff12",
+                "materialId01": 3010,
+                "itemNum01": 1
+            },
+            "3020": {
+                "name": "EN\u5f3e\uff22",
+                "materialId01": 3020,
+                "itemNum01": 1
+            },
+            "3030": {
+                "name": "EN\u5f3e\uff22\uff12",
+                "materialId01": 3030,
+                "itemNum01": 1
+            },
+            "3040": {
+                "name": "EN\u5f3e\uff23",
+                "materialId01": 3040,
+                "itemNum01": 1
+            },
+            "3050": {
+                "name": "EN\u5f3e\uff23\uff12",
+                "materialId01": 3050,
+                "itemNum01": 1
+            },
+            "3060": {
+                "name": "EN\u5f3e\uff24",
+                "materialId01": 3060,
+                "itemNum01": 1
+            },
+            "3070": {
+                "name": "EN\u5f3e\uff24\uff12",
+                "materialId01": 3070,
+                "itemNum01": 1
+            },
+            "3100": {
+                "name": "\u6b66\u5668\u9b54\u6cd5\u5f37\u53161",
+                "materialId01": 3100,
+                "itemNum01": 1
+            },
+            "3110": {
+                "name": "\u6b66\u5668\u9b54\u6cd5\u5f37\u53162",
+                "materialId01": 3110,
+                "itemNum01": 1
+            },
+            "3120": {
+                "name": "\u6b66\u5668\u9b54\u6cd5\u5f37\u53163",
+                "materialId01": 3120,
+                "itemNum01": 1
+            },
+            "3300": {
+                "name": "\u76fe\u5f37\u53161",
+                "materialId01": 3300,
+                "itemNum01": 1
+            },
+            "3310": {
+                "name": "\u76fe\u5f37\u53162",
+                "materialId01": 3310,
+                "itemNum01": 1
+            },
+            "3400": {
+                "name": "\u30a4\u30f3\u30d3\u30b8\u30d6\u30eb\u30a6\u30a7\u30dd\u30f3",
+                "materialId01": 3400,
+                "itemNum01": 1
+            },
+            "3410": {
+                "name": "\u30a4\u30f3\u30d3\u30b8\u30d6\u30eb\u30dc\u30c7\u30a3",
+                "materialId01": 3410,
+                "itemNum01": 1
+            },
+            "3500": {
+                "name": "\u30e9\u30a4\u30c8",
+                "materialId01": 3500,
+                "itemNum01": 1
+            },
+            "3510": {
+                "name": "\u30b5\u30a4\u30ec\u30f3\u30b9",
+                "materialId01": 3510,
+                "itemNum01": 1
+            },
+            "3520": {
+                "name": "\u30b5\u30a6\u30f3\u30c9",
+                "materialId01": 3520,
+                "itemNum01": 1
+            },
+            "3530": {
+                "name": "\u4fee\u5fa9",
+                "materialId01": 3530,
+                "itemNum01": 1
+            },
+            "3540": {
+                "name": "\u30d5\u30a9\u30fc\u30ea\u30f3\u30b0\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb",
+                "materialId01": 3540,
+                "itemNum01": 1
+            },
+            "3550": {
+                "name": "\u64ec\u614b",
+                "materialId01": 3550,
+                "itemNum01": 1
+            },
+            "3600": {
+                "name": "\u89e3\u546a",
+                "materialId01": 3600,
+                "itemNum01": 1
+            },
+            "3610": {
+                "name": "\u6cbb\u7652",
+                "materialId01": 3610,
+                "itemNum01": 1
+            },
+            "3700": {
+                "name": "\u7d50\u6676\u30d3\u30fc\u30e0",
+                "materialId01": 3700,
+                "itemNum01": 1
+            },
+            "3710": {
+                "name": "\u3010DLC\u3011\u95c7\u306e\u7389",
+                "materialId01": 3710,
+                "itemNum01": 1
+            },
+            "3720": {
+                "name": "\u3010DLC\u3011\u95c7\u306e\u98db\u6cab",
+                "materialId01": 3720,
+                "itemNum01": 1
+            },
+            "3730": {
+                "name": "\u3010DLC\u3011\u95c7\u306e\u9727",
+                "materialId01": 3730,
+                "itemNum01": 1
+            },
+            "3740": {
+                "name": "\u3010DLC\u3011\u8ffd\u3046\u8005\u305f\u3061",
+                "materialId01": 3740,
+                "itemNum01": 1
+            },
+            "4000": {
+                "name": "\u30d5\u30a1\u30a4\u30a2\u30dc\u30fc\u30eb",
+                "materialId01": 4000,
+                "itemNum01": 1
+            },
+            "4010": {
+                "name": "\u30d5\u30a1\u30a4\u30a2\u30dc\u30fc\u30eb\uff12",
+                "materialId01": 4010,
+                "itemNum01": 1
+            },
+            "4020": {
+                "name": "\u30d5\u30a1\u30a4\u30a2\u30dc\u30fc\u30eb\uff13",
+                "materialId01": 4020,
+                "itemNum01": 1
+            },
+            "4030": {
+                "name": "\u30d5\u30a1\u30a4\u30a2\u30b9\u30c8\u30fc\u30e0",
+                "materialId01": 4030,
+                "itemNum01": 1
+            },
+            "4040": {
+                "name": "\u30d5\u30a1\u30a4\u30a2\u30b9\u30c8\u30fc\u30e0\uff12",
+                "materialId01": 4040,
+                "itemNum01": 1
+            },
+            "4050": {
+                "name": "\u706b\u708e\u653e\u5c04",
+                "materialId01": 4050,
+                "itemNum01": 1
+            },
+            "4060": {
+                "name": "\u708e\u306e\u30e0\u30c1",
+                "materialId01": 4060,
+                "itemNum01": 1
+            },
+            "4100": {
+                "name": "\u8fd1\u63a5\u708e1",
+                "materialId01": 4100,
+                "itemNum01": 1
+            },
+            "4110": {
+                "name": "\u8fd1\u63a5\u708e2",
+                "materialId01": 4110,
+                "itemNum01": 1
+            },
+            "4200": {
+                "name": "\u6bd2\u306e\u9727",
+                "materialId01": 4200,
+                "itemNum01": 1
+            },
+            "4210": {
+                "name": "\u731b\u6bd2\u306e\u9727",
+                "materialId01": 4210,
+                "itemNum01": 1
+            },
+            "4220": {
+                "name": "\u9178\u306e\u9727",
+                "materialId01": 4220,
+                "itemNum01": 1
+            },
+            "4300": {
+                "name": "\u9244\u306e\u4f53",
+                "materialId01": 4300,
+                "itemNum01": 1
+            },
+            "4310": {
+                "name": "\u6c34\u306e\u30f4\u30a7\u30fc\u30eb",
+                "materialId01": 4310,
+                "itemNum01": 1
+            },
+            "4360": {
+                "name": "\u9b45\u4e86",
+                "materialId01": 4360,
+                "itemNum01": 1
+            },
+            "4400": {
+                "name": "\u72c2\u6c17\u306e\u529b",
+                "materialId01": 4400,
+                "itemNum01": 1
+            },
+            "4500": {
+                "name": "\u30ab\u30aa\u30b9_\u30d5\u30a1\u30a4\u30a2\u30dc\u30fc\u30eb",
+                "materialId01": 4500,
+                "itemNum01": 1
+            },
+            "4510": {
+                "name": "\u30ab\u30aa\u30b9_\u30d5\u30a1\u30a4\u30a2\u30b9\u30c8\u30fc\u30e0",
+                "materialId01": 4510,
+                "itemNum01": 1
+            },
+            "4520": {
+                "name": "\u30ab\u30aa\u30b9\u708e\u306e\u30e0\u30c1",
+                "materialId01": 4520,
+                "itemNum01": 1
+            },
+            "4530": {
+                "name": "\u3010DLC\u3011\u9ed2\u708e",
+                "materialId01": 4530,
+                "itemNum01": 1
+            },
+            "5000": {
+                "name": "\u56de\u5fa91",
+                "materialId01": 5000,
+                "itemNum01": 1
+            },
+            "5010": {
+                "name": "\u56de\u5fa92",
+                "materialId01": 5010,
+                "itemNum01": 1
+            },
+            "5020": {
+                "name": "\u56de\u5fa93",
+                "materialId01": 5020,
+                "itemNum01": 1
+            },
+            "5030": {
+                "name": "\u56de\u5fa94",
+                "materialId01": 5030,
+                "itemNum01": 1
+            },
+            "5040": {
+                "name": "\u30ea\u30b8\u30a7\u30cd",
+                "materialId01": 5040,
+                "itemNum01": 1
+            },
+            "5050": {
+                "name": "\u30b0\u30ec\u30fc\u30c8\u30ea\u30b8\u30a7\u30cd",
+                "materialId01": 5050,
+                "itemNum01": 1
+            },
+            "5100": {
+                "name": "\u53ec\u559a1",
+                "materialId01": 5100,
+                "itemNum01": 1
+            },
+            "5110": {
+                "name": "\u53ec\u559a2",
+                "materialId01": 5110,
+                "itemNum01": 1
+            },
+            "5200": {
+                "name": "\u4e00\u5ea6\u304d\u308a\u5fa9\u6d3b",
+                "materialId01": 5200,
+                "itemNum01": 1
+            },
+            "5210": {
+                "name": "\u5e30\u9084",
+                "materialId01": 5210,
+                "itemNum01": 1
+            },
+            "5300": {
+                "name": "\u30d5\u30a9\u30fc\u30b91",
+                "materialId01": 5300,
+                "itemNum01": 1
+            },
+            "5310": {
+                "name": "\u30d5\u30a9\u30fc\u30b92",
+                "materialId01": 5310,
+                "itemNum01": 1
+            },
+            "5320": {
+                "name": "\u30d5\u30a9\u30fc\u30b93",
+                "materialId01": 5320,
+                "itemNum01": 1
+            },
+            "5400": {
+                "name": "\u30d2\u30f3\u30c8",
+                "materialId01": 5400,
+                "itemNum01": 1
+            },
+            "5500": {
+                "name": "\u96f71",
+                "materialId01": 5500,
+                "itemNum01": 1
+            },
+            "5510": {
+                "name": "\u96f72",
+                "materialId01": 5510,
+                "itemNum01": 1
+            },
+            "5520": {
+                "name": "\u96f73",
+                "materialId01": 5520,
+                "itemNum01": 1
+            },
+            "5600": {
+                "name": "\u9b54\u6cd5\u9632\u8b771",
+                "materialId01": 5600,
+                "itemNum01": 1
+            },
+            "5610": {
+                "name": "\u9b54\u6cd5\u9632\u8b772",
+                "materialId01": 5610,
+                "itemNum01": 1
+            },
+            "5700": {
+                "name": "\u56e0\u679c\u5fdc\u5831",
+                "materialId01": 5700,
+                "itemNum01": 1
+            },
+            "5800": {
+                "name": "\u30b0\u30e9\u30d3\u30c6\u30a3",
+                "materialId01": 5800,
+                "itemNum01": 1
+            },
+            "5810": {
+                "name": "\u53cd\u9b54\u6cd5\u9818\u57df",
+                "materialId01": 5810,
+                "itemNum01": 1
+            },
+            "5900": {
+                "name": "\u592a\u967d\u306e\u5263",
+                "materialId01": 5900,
+                "itemNum01": 1
+            },
+            "5910": {
+                "name": "\u6708\u5149\u306e\u5263",
+                "materialId01": 5910,
+                "itemNum01": 1
+            },
+            "7000": {
+                "name": "\u306a\u3057"
+            },
+            "7001": {
+                "name": "\u5f37\u5316\uff0b\uff11",
+                "materialId01": 1000,
+                "itemNum01": 1
+            },
+            "7002": {
+                "name": "\u5f37\u5316\uff0b\uff12",
+                "materialId01": 1000,
+                "itemNum01": 1
+            },
+            "7003": {
+                "name": "\u5f37\u5316\uff0b\uff13",
+                "materialId01": 1000,
+                "itemNum01": 2
+            },
+            "7004": {
+                "name": "\u5f37\u5316\uff0b\uff14",
+                "materialId01": 1010,
+                "itemNum01": 1
+            },
+            "7005": {
+                "name": "\u5f37\u5316\uff0b\uff15",
+                "materialId01": 1010,
+                "itemNum01": 1
+            },
+            "7006": {
+                "name": "\u5f37\u5316\uff0b\uff16",
+                "materialId01": 1010,
+                "itemNum01": 2
+            },
+            "7007": {
+                "name": "\u5f37\u5316\uff0b\uff17",
+                "materialId01": 1030,
+                "itemNum01": 1
+            },
+            "7008": {
+                "name": "\u5f37\u5316\uff0b\uff18",
+                "materialId01": 1030,
+                "itemNum01": 1
+            },
+            "7009": {
+                "name": "\u5f37\u5316\uff0b\uff19",
+                "materialId01": 1030,
+                "itemNum01": 2
+            },
+            "7010": {
+                "name": "\u5f37\u5316\uff0b\uff11\uff10",
+                "materialId01": 1070,
+                "itemNum01": 1
+            },
+            "7100": {
+                "name": "\u306a\u3057"
+            },
+            "7101": {
+                "name": "\u5f37\u5316\uff0b\uff11",
+                "materialId01": 1130,
+                "itemNum01": 1
+            },
+            "7102": {
+                "name": "\u5f37\u5316\uff0b\uff12",
+                "materialId01": 1130,
+                "itemNum01": 1
+            },
+            "7103": {
+                "name": "\u5f37\u5316\uff0b\uff13",
+                "materialId01": 1130,
+                "itemNum01": 2
+            },
+            "7104": {
+                "name": "\u5f37\u5316\uff0b\uff14",
+                "materialId01": 1130,
+                "itemNum01": 2
+            },
+            "7105": {
+                "name": "\u5f37\u5316\uff0b\uff15",
+                "materialId01": 1130,
+                "itemNum01": 4
+            },
+            "7200": {
+                "name": "\u306a\u3057"
+            },
+            "7201": {
+                "name": "\u5f37\u5316\uff0b\uff11",
+                "materialId01": 1000,
+                "itemNum01": 1
+            },
+            "7202": {
+                "name": "\u5f37\u5316\uff0b\uff12",
+                "materialId01": 1000,
+                "itemNum01": 2
+            },
+            "7203": {
+                "name": "\u5f37\u5316\uff0b\uff13",
+                "materialId01": 1000,
+                "itemNum01": 3
+            },
+            "7204": {
+                "name": "\u5f37\u5316\uff0b\uff14",
+                "materialId01": 1010,
+                "itemNum01": 1
+            },
+            "7205": {
+                "name": "\u5f37\u5316\uff0b\uff15",
+                "materialId01": 1010,
+                "itemNum01": 2
+            },
+            "7206": {
+                "name": "\u5f37\u5316\uff0b\uff16",
+                "materialId01": 1010,
+                "itemNum01": 3
+            },
+            "7207": {
+                "name": "\u5f37\u5316\uff0b\uff17",
+                "materialId01": 1030,
+                "itemNum01": 1
+            },
+            "7208": {
+                "name": "\u5f37\u5316\uff0b\uff18",
+                "materialId01": 1030,
+                "itemNum01": 2
+            },
+            "7209": {
+                "name": "\u5f37\u5316\uff0b\uff19",
+                "materialId01": 1030,
+                "itemNum01": 3
+            },
+            "7210": {
+                "name": "\u5f37\u5316\uff0b\uff11\uff10",
+                "materialId01": 1070,
+                "itemNum01": 1
+            }
+        }
+    }
+}

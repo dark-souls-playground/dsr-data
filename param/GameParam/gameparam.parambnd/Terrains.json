@@ -1,0 +1,137 @@
+{
+    "entry_id": 38,
+    "path": "N:\\FRPG\\data\\INTERROOT_x64\\param\\GameParam\\HitMtrlParam.param",
+    "flags": 2,
+    "data": {
+        "param_type": "HIT_MTRL_PARAM_ST",
+        "big_endian": false,
+        "unknown": 0,
+        "paramdef_data_version": 2,
+        "flags1": 2,
+        "flags2": 0,
+        "paramdef_format_version": 0,
+        "undecodable_row_names": [],
+        "rows": {
+            "0": {
+                "name": "\u30c0\u30df\u30fc"
+            },
+            "1": {
+                "name": "\u77f3\u6750\uff08\u5c4b\u5916\uff09"
+            },
+            "2": {
+                "name": "\u77f3\u6750\uff08\u5c4b\u5185\uff09"
+            },
+            "3": {
+                "name": "\u571f"
+            },
+            "4": {
+                "name": "\u6728\u6750"
+            },
+            "5": {
+                "name": "\u8349"
+            },
+            "6": {
+                "name": "\u7802\u5229"
+            },
+            "7": {
+                "name": "\u96ea",
+                "footEffectHeightType:2": 2,
+                "footEffectDirType:2": 1
+            },
+            "8": {
+                "name": "\u6c37"
+            },
+            "9": {
+                "name": "\u9244"
+            },
+            "10": {
+                "name": "\u7802"
+            },
+            "11": {
+                "name": "\u9aa8"
+            },
+            "12": {
+                "name": "\u7070"
+            },
+            "14": {
+                "name": "\u8150\u6557\u3057\u305f\u6728"
+            },
+            "15": {
+                "name": "\u5de8\u6728"
+            },
+            "17": {
+                "name": "\u96ea\uff08\u3042\u3057\u3042\u3068\u3064\u304b\u306a\u3044\u5834\u6240\u7528\uff09",
+                "footEffectHeightType:2": 2,
+                "footEffectDirType:2": 1
+            },
+            "19": {
+                "name": "\u6c34\uff08\u6ed1\u308a\u964d\u308a\uff09",
+                "aiVolumeRate": 3.0,
+                "footEffectHeightType:2": 2,
+                "floorHeightType:2": 1
+            },
+            "20": {
+                "name": "\u6c34\uff08\u6c34\u6e9c\u308a\u7a0b\u5ea6\uff09",
+                "aiVolumeRate": 3.0,
+                "footEffectHeightType:2": 1,
+                "floorHeightType:2": 1
+            },
+            "21": {
+                "name": "\u6c34\uff08\u8db3\u9996\u7a0b\u5ea6\uff09",
+                "aiVolumeRate": 3.0,
+                "spEffectIdOnHit0": 4100,
+                "footEffectHeightType:2": 1,
+                "floorHeightType:2": 1
+            },
+            "22": {
+                "name": "\u7c98\u6db2",
+                "footEffectHeightType:2": 2,
+                "footEffectDirType:2": 1
+            },
+            "23": {
+                "name": "\u6bd2\u6cbc",
+                "spEffectIdOnHit0": 4100,
+                "spEffectIdOnHit1": 4020,
+                "footEffectHeightType:2": 1,
+                "floorHeightType:2": 1
+            },
+            "24": {
+                "name": "\u6ce5",
+                "spEffectIdOnHit0": 4100,
+                "footEffectHeightType:2": 1,
+                "floorHeightType:2": 1
+            },
+            "25": {
+                "name": "\u30b3\u30fc\u30eb\u30bf\u30fc\u30eb",
+                "spEffectIdOnHit0": 4100,
+                "footEffectHeightType:2": 2,
+                "footEffectDirType:2": 1,
+                "floorHeightType:2": 1
+            },
+            "26": {
+                "name": "\u30ad\u30e1\u30e9\u6cbc",
+                "footEffectHeightType:2": 1,
+                "floorHeightType:2": 1
+            },
+            "27": {
+                "name": "\u6eb6\u5ca9",
+                "spEffectIdOnHit0": 4030,
+                "spEffectIdOnHit1": 4031,
+                "footEffectHeightType:2": 1,
+                "floorHeightType:2": 1
+            },
+            "28": {
+                "name": "\u7d68\u6bef"
+            },
+            "29": {
+                "name": "\u7a7a\u30c7\u30fc\u30bf\u4f55\u3082\u51fa\u306a\u3044\u7528"
+            },
+            "34": {
+                "name": "\u6728\u6750"
+            },
+            "40": {
+                "name": "\u30c9\u30dc\u30f3SFX\u7528"
+            }
+        }
+    }
+}

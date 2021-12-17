@@ -1,0 +1,431 @@
+{
+    "entry_id": 2,
+    "path": "N:\\FRPG\\data\\INTERROOT_x64\\param\\GameParam\\EquipParamAccessory.param",
+    "flags": 2,
+    "data": {
+        "param_type": "EQUIP_PARAM_ACCESSORY_ST",
+        "big_endian": false,
+        "unknown": 1,
+        "paramdef_data_version": 1,
+        "flags1": 2,
+        "flags2": 0,
+        "paramdef_format_version": 0,
+        "undecodable_row_names": [],
+        "rows": {
+            "100": {
+                "name": "\u88c5\u5099\u91cd\u91cf\u30a2\u30c3\u30d7",
+                "refId": 2000,
+                "sellValue": 1000,
+                "sortId": 3,
+                "iconId": 4000,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "101": {
+                "name": "\u30d4\u30f3\u30c1\u653b\u6483\u529b\u30a2\u30c3\u30d7",
+                "refId": 2010,
+                "sellValue": 100,
+                "sortId": 12,
+                "iconId": 4001,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "102": {
+                "name": "\u6697\u6708\u795e\u306e\u6307\u8f2a",
+                "refId": 2320,
+                "sellValue": -1,
+                "sortId": 23,
+                "iconId": 4040,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "103": {
+                "name": "\u76d7\u8cca\u56e3\u306e\u6307\u8f2a",
+                "refId": 2330,
+                "sellValue": -1,
+                "sortId": 37,
+                "iconId": 4041,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "104": {
+                "name": "\u30b9\u30bf\u30df\u30ca\u56de\u5fa9\u30a2\u30c3\u30d7",
+                "refId": 2013,
+                "sellValue": 100,
+                "sortId": 2,
+                "iconId": 4004,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "105": {
+                "name": "\u708e\u8010\u6027\u30a2\u30c3\u30d7",
+                "refId": 2020,
+                "sellValue": 100,
+                "sortId": 6,
+                "iconId": 4005,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "106": {
+                "name": "\u96f7\u8010\u6027\u30a2\u30c3\u30d7",
+                "refId": 2021,
+                "sellValue": 100,
+                "sortId": 7,
+                "iconId": 4006,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "107": {
+                "name": "\u9b54\u6cd5\u8010\u6027\u30a2\u30c3\u30d7",
+                "refId": 2022,
+                "sellValue": 100,
+                "sortId": 5,
+                "iconId": 4007,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "108": {
+                "name": "\u5168\u8010\u6027\u30a2\u30c3\u30d71",
+                "refId": 2024,
+                "sellValue": 100,
+                "sortId": 8,
+                "iconId": 4008,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "109": {
+                "name": "\u51fa\u8840\u8010\u6027\u30a2\u30c3\u30d7",
+                "refId": 2030,
+                "sellValue": 100,
+                "sortId": 9,
+                "iconId": 4009,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "110": {
+                "name": "\u6bd2\u8010\u6027\u30a2\u30c3\u30d7",
+                "refId": 2031,
+                "sellValue": 100,
+                "sortId": 10,
+                "iconId": 4010,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "111": {
+                "name": "HP\u5fae\u5897",
+                "refId": 2340,
+                "sellValue": 100,
+                "sortId": 1,
+                "iconId": 4042,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "113": {
+                "name": "\u546a\u8010\u6027\u30a2\u30c3\u30d7",
+                "refId": 2034,
+                "sellValue": 100,
+                "sortId": 11,
+                "iconId": 4013,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "114": {
+                "name": "\u9b54\u6cd5\u30b9\u30ed\u30c3\u30c8\u30a2\u30c3\u30d7",
+                "refId": 2040,
+                "sellValue": 100,
+                "sortId": 20,
+                "iconId": 4014,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "115": {
+                "name": "\u9b54\u6cd5\u5a01\u529b\u30a2\u30c3\u30d7",
+                "refId": 2050,
+                "sellValue": 100,
+                "sortId": 16,
+                "iconId": 4015,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "116": {
+                "name": "MP\u504f\u91cd",
+                "refId": 2060,
+                "sellValue": 1000,
+                "sortId": 19,
+                "iconId": 4016,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "117": {
+                "name": "\u81f4\u547d\u653b\u6483\u529b\u30a2\u30c3\u30d7",
+                "refId": 36,
+                "sellValue": 1000,
+                "sortId": 28,
+                "iconId": 4017,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "119": {
+                "name": "\u5f13\u306e\u9054\u4eba",
+                "refId": 2080,
+                "sellValue": 100,
+                "sortId": 27,
+                "iconId": 4019,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "120": {
+                "name": "\u7269\u7406\u9632\u5fa1\u529b\u30a2\u30c3\u30d7",
+                "refId": 2023,
+                "sellValue": 100,
+                "sortId": 4,
+                "iconId": 4020,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "121": {
+                "name": "\u30a2\u30a4\u30c6\u30e0\u30c9\u30ed\u30c3\u30d7\u30a2\u30c3\u30d7",
+                "refId": 2100,
+                "sellValue": 100,
+                "sortId": 32,
+                "iconId": 4021,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "122": {
+                "name": "\u53d6\u5f97\u30bd\u30a6\u30eb\u30a2\u30c3\u30d7",
+                "refId": 2101,
+                "sellValue": 100,
+                "sortId": 33,
+                "iconId": 4022,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "123": {
+                "name": "\u97f3\u6d88\u53bb",
+                "refId": 2110,
+                "sellValue": 100,
+                "sortId": 18,
+                "iconId": 4023,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "124": {
+                "name": "\u77f3\u30b3\u30ed\u5e3d\u5b50",
+                "refId": 2111,
+                "sellValue": 1000,
+                "sortId": 38,
+                "iconId": 4024,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "125": {
+                "name": "\u525b\u811a",
+                "refId": 2120,
+                "sellValue": 100,
+                "sortId": 31,
+                "iconId": 4025,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "126": {
+                "name": "\u5fa9\u6d3b",
+                "refId": 2130,
+                "sellValue": 100,
+                "sortId": 14,
+                "iconId": 4026,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "127": {
+                "name": "\u546a\u3044\u304b\u3089\u306e\u5fa9\u6d3b",
+                "refId": 2131,
+                "sellValue": 100,
+                "sortId": 15,
+                "iconId": 4027,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "128": {
+                "name": "\u8efd\u696d",
+                "refId": 2121,
+                "sellValue": 100,
+                "sortId": 30,
+                "iconId": 4028,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "130": {
+                "name": "\u5171\u9cf4",
+                "refId": 2140,
+                "sellValue": 1000,
+                "sortId": 24,
+                "iconId": 4030,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "137": {
+                "name": "\u6df7\u6c8c\u306e\u8a00\u8449",
+                "refId": 2190,
+                "sellValue": 1000,
+                "sortId": 36,
+                "iconId": 4037,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "138": {
+                "name": "\u95c7\u6b69\u304d",
+                "refId": 2200,
+                "sellValue": -1,
+                "sortId": 34,
+                "iconId": 4002,
+                "trophySeqId": 32,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420,
+                "disableMultiDropShare:1": true
+            },
+            "139": {
+                "name": "\u6eb6\u5ca9\u6b69\u304d",
+                "refId": 2210,
+                "sellValue": -1,
+                "sortId": 35,
+                "iconId": 4003,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420,
+                "disableMultiDropShare:1": true
+            },
+            "141": {
+                "name": "\u88dc\u52a9\u9b54\u6cd5\u5ef6\u9577",
+                "refId": 2230,
+                "sellValue": 100,
+                "sortId": 17,
+                "iconId": 4039,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "142": {
+                "name": "HP\u30c9\u30ec\u30a4\u30f3",
+                "refId": 2240,
+                "sellValue": 500,
+                "sortId": 40,
+                "iconId": 4018,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "143": {
+                "name": "\u5f37\u8005\u306e\u546a\u3044",
+                "refId": 2250,
+                "sellValue": 1000,
+                "sortId": 39,
+                "iconId": 4029,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420,
+                "isEquipOutBrake:1": true
+            },
+            "144": {
+                "name": "\u30ab\u30a6\u30f3\u30bf\u30fc\u5f37\u5316",
+                "refId": 2260,
+                "sellValue": 100,
+                "sortId": 25,
+                "iconId": 4031,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "145": {
+                "name": "\u6b66\u5668\u3092\u5927\u5207\u306b",
+                "refId": 2270,
+                "sellValue": 100,
+                "sortId": 29,
+                "iconId": 4032,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "146": {
+                "name": "SA\u30a2\u30c3\u30d7",
+                "refId": 2090,
+                "sellValue": 50,
+                "sortId": 26,
+                "iconId": 4035,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "147": {
+                "name": "\u30d4\u30f3\u30c1\u9632\u5fa1\u529b\u30a2\u30c3\u30d7",
+                "refId": 2290,
+                "sellValue": 100,
+                "sortId": 13,
+                "iconId": 4036,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "148": {
+                "name": "\u5947\u8de1\u5a01\u529b\u30a2\u30c3\u30d7",
+                "refId": 2300,
+                "sellValue": 1000,
+                "sortId": 22,
+                "iconId": 4011,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "149": {
+                "name": "\u9b54\u6cd5\u30b9\u30ed\u30c3\u30c8\u30a2\u30c3\u30d7B",
+                "refId": 2310,
+                "sellValue": 1000,
+                "sortId": 21,
+                "iconId": 4038,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            },
+            "150": {
+                "name": "\u3010DLC\u3011\u9ed2\u7adc\u306e\u6307\u8f2a",
+                "refId": 2350,
+                "sellValue": 1000,
+                "sortId": 41,
+                "iconId": 4043,
+                "vagrantItemLotId": 101400,
+                "vagrantBonusEneDropItemLotId": 101410,
+                "vagrantItemEneDropItemLotId": 101420
+            }
+        }
+    }
+}

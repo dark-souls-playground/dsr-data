@@ -1,0 +1,403 @@
+{
+    "entry_id": 27,
+    "path": "N:\\FRPG\\data\\INTERROOT_x64\\param\\GameParam\\RagdollParam.param",
+    "flags": 2,
+    "data": {
+        "param_type": "RAGDOLL_PARAM_ST",
+        "big_endian": false,
+        "unknown": 1,
+        "paramdef_data_version": 1,
+        "flags1": 2,
+        "flags2": 0,
+        "paramdef_format_version": 0,
+        "undecodable_row_names": [],
+        "rows": {
+            "0": {
+                "name": "\u52d5\u304b\u306a\u3044",
+                "hierarchyGain": 0.0,
+                "velocityDamping": 1.0,
+                "velocityGain": 1.0,
+                "positionGain": 1.0,
+                "maxLinerVelocity": 10.0,
+                "maxAngularVelocity": 10.0,
+                "snapGain": 1.0
+            },
+            "1": {
+                "name": "Havok\u306e\u30c7\u30d5\u30a9\u30eb\u30c8\u5024"
+            },
+            "100": {
+                "name": "\u30e0\u30ab\u30c7\u306e\u982d\u90e8",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 0
+            },
+            "101": {
+                "name": "\u30e0\u30ab\u30c7\u306e\u5c3b\u5c3e",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 1
+            },
+            "200": {
+                "name": "\u8840\u30c0\u30cb\u306e\u672c\u4f53",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 0
+            },
+            "201": {
+                "name": "\u8840\u30c0\u30cb\u306e\u3075\u304f\u308d",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 1
+            },
+            "1000": {
+                "name": "\u30c6\u30b9\u30c8\u98db\u7adc\u306e\u672c\u4f53",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 0
+            },
+            "1010": {
+                "name": "\u30c6\u30b9\u30c8\u98db\u7adc\u306e\u5c3b\u5c3e",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 1
+            },
+            "1020": {
+                "name": "\u30c6\u30b9\u30c8\u98db\u7adc\u306e\u53f3\u7ffc",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 2
+            },
+            "1050": {
+                "name": "\u9a0e\u58eb\u306e\u982d\u90e8",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0
+            },
+            "1100": {
+                "name": "\u30e0\u30ab\u30c7\u30dc\u30b9\u306e\u672c\u4f53",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 0
+            },
+            "1110": {
+                "name": "\u30e0\u30ab\u30c7\u30dc\u30b9\u306e\u5c3b\u5c3e",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 1
+            },
+            "1120": {
+                "name": "\u30e0\u30ab\u30c7\u30dc\u30b9\u306e\u53f3\u8155",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 2
+            },
+            "1200": {
+                "name": "\u5893\u738b\u306e\u672c\u4f53",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 0
+            },
+            "1201": {
+                "name": "\u5893\u738b\u306e\u3059\u3060\u308c\u2460",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 1
+            },
+            "1202": {
+                "name": "\u5893\u738b\u306e\u3059\u3060\u308c\u2461",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 2
+            },
+            "1203": {
+                "name": "\u5893\u738b\u306e\u3059\u3060\u308c\u2462",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 3
+            },
+            "1210": {
+                "name": "\u5893\u738b\u306e\u30de\u30f3\u30c8",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 6
+            },
+            "1301": {
+                "name": "\u8caa\u98df\u30c9\u30e9\u30b4\u30f3\u306e\u5c3b\u5c3e",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 1
+            },
+            "1400": {
+                "name": "\u6e56\u7363\u306e\u9996\u2460",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 1
+            },
+            "1401": {
+                "name": "\u6e56\u7363\u306e\u9996\u2461",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 2
+            },
+            "1402": {
+                "name": "\u6e56\u7363\u306e\u9996\u2462",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 3
+            },
+            "1403": {
+                "name": "\u6e56\u7363\u306e\u9996\u2463",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 4
+            },
+            "1404": {
+                "name": "\u6e56\u7363\u306e\u9996\u2464",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 5
+            },
+            "1405": {
+                "name": "\u6e56\u7363\u306e\u9996\u2465",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 6
+            },
+            "1406": {
+                "name": "\u6e56\u7363\u306e\u9996\u2466",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 7
+            },
+            "1501": {
+                "name": "\u30b7\u30fc\u30b9\u306e\u7d50\u6676\u93a7",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 1
+            },
+            "1601": {
+                "name": "\u30d2\u30ed\u30a4\u30f3\u306e\u5c3b\u5c3e",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 1
+            },
+            "1701": {
+                "name": "\u30d8\u30eb\u30ab\u30a4\u30c8\u306e\u5c3b\u5c3e",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 1
+            },
+            "1801": {
+                "name": "\u5ea7\u7985\u30c9\u30e9\u30b4\u30f3\u306e\u5c3b\u5c3e",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 1
+            },
+            "1901": {
+                "name": "\u30ac\u30fc\u30b4\u30a4\u30eb\u306e\u5c3b\u5c3e",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 1
+            },
+            "1902": {
+                "name": "\u30ac\u30fc\u30b4\u30a4\u30eb2\u4f53\u76ee\u7834\u640d\u90e8\u4f4d",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 2
+            },
+            "2001": {
+                "name": "\u30ac\u30fc\u30b4\u30a4\u30eb\uff08\u8272\u9055\u3044\uff09\u306e\u5c3b\u5c3e",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 1
+            },
+            "2101": {
+                "name": "\u767d\u7adc\u30b7\u30fc\u30b9\u306e\u5c3b\u5c3e",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 1
+            },
+            "2201": {
+                "name": "\u91d1\u30ad\u30e1\u30e9\u306e\u5c3b\u5c3e",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 1
+            },
+            "2301": {
+                "name": "\u9ed2\u7adc\u306e\u5c3b\u5c3e",
+                "hierarchyGain": 0.0,
+                "accelGain": 0.0,
+                "velocityGain": 0.0,
+                "positionGain": 0.0,
+                "maxLinerVelocity": 0.0,
+                "maxAngularVelocity": 0.0,
+                "snapGain": 0.0,
+                "partsHitMaskNo": 1
+            }
+        }
+    }
+}

@@ -1,0 +1,2664 @@
+{
+    "entry_id": 28,
+    "path": "N:\\FRPG\\data\\INTERROOT_x64\\param\\GameParam\\ShopLineupParam.param",
+    "flags": 2,
+    "data": {
+        "param_type": "SHOP_LINEUP_PARAM",
+        "big_endian": false,
+        "unknown": 1,
+        "paramdef_data_version": 1,
+        "flags1": 2,
+        "flags2": 0,
+        "paramdef_format_version": 0,
+        "undecodable_row_names": [],
+        "rows": {
+            "1": {
+                "name": "\u6d88\u3059\u3079\u304b\u3089\u305a",
+                "equipId": 240,
+                "value": 100,
+                "equipType": 3
+            },
+            "1100": {
+                "name": "106\u6a59\u306e\u52a9\u8a00\u306e\u308d\u3046\u77f3",
+                "equipId": 106,
+                "value": 100,
+                "eventFlag": 11017020,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "1101": {
+                "name": "280\u4fee\u7406\u306e\u5149\u7c89",
+                "equipId": 280,
+                "value": 500,
+                "equipType": 3
+            },
+            "1102": {
+                "name": "290\u6295\u3052\u30ca\u30a4\u30d5",
+                "equipId": 290,
+                "value": 10,
+                "equipType": 3
+            },
+            "1103": {
+                "name": "292\u706b\u708e\u58f7",
+                "equipId": 292,
+                "value": 50,
+                "equipType": 3
+            },
+            "1104": {
+                "name": "296\u6c37\u7d50\u584a",
+                "equipId": 296,
+                "value": 500,
+                "equipType": 3
+            },
+            "1105": {
+                "name": "2021\u6c11\u5bb6\u306e\u9375",
+                "equipId": 2021,
+                "value": 1000,
+                "eventFlag": 11017030,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "1106": {
+                "name": "2602\u4fee\u7406\u7bb1",
+                "equipId": 2602,
+                "value": 3000,
+                "eventFlag": 11017040,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "1107": {
+                "name": "100000\u30c0\u30ac\u30fc",
+                "equipId": 100000,
+                "value": 300
+            },
+            "1108": {
+                "name": "200000\u30b7\u30e7\u30fc\u30c8\u30bd\u30fc\u30c9",
+                "equipId": 200000,
+                "value": 600
+            },
+            "1110": {
+                "name": "400000\u30b7\u30df\u30bf\u30fc",
+                "equipId": 400000,
+                "value": 600
+            },
+            "1111": {
+                "name": "601000\u30ec\u30a4\u30d4\u30a2",
+                "equipId": 601000,
+                "value": 600
+            },
+            "1112": {
+                "name": "700000\u30cf\u30f3\u30c9\u30a2\u30af\u30b9",
+                "equipId": 700000,
+                "value": 450
+            },
+            "1113": {
+                "name": "800000\u30af\u30e9\u30d6",
+                "equipId": 800000,
+                "value": 150
+            },
+            "1114": {
+                "name": "809000\u5f37\u5316\u30af\u30e9\u30d6",
+                "equipId": 809000,
+                "value": 350
+            },
+            "1115": {
+                "name": "1000000\u30b9\u30d4\u30a2",
+                "equipId": 1000000,
+                "value": 600
+            },
+            "1116": {
+                "name": "1200000\u30b7\u30e7\u30fc\u30c8\u30dc\u30a6",
+                "equipId": 1200000,
+                "value": 1000
+            },
+            "1117": {
+                "name": "1400000\u53cc\u9ce5\u306e\u6728\u76fe",
+                "equipId": 1400000,
+                "value": 400
+            },
+            "1118": {
+                "name": "1403000\u30b9\u30e2\u30fc\u30eb\u30ec\u30b6\u30fc\u30b7\u30fc\u30eb\u30c9",
+                "equipId": 1403000,
+                "value": 600
+            },
+            "1119": {
+                "name": "1405000\u30d0\u30c3\u30af\u30e9\u30fc",
+                "equipId": 1405000,
+                "value": 800
+            },
+            "1120": {
+                "name": "1408000\u30ec\u30b6\u30fc\u30b7\u30fc\u30eb\u30c9",
+                "equipId": 1408000,
+                "value": 800
+            },
+            "1121": {
+                "name": "1450000\u30d2\u30fc\u30bf\u30fc\u30b7\u30fc\u30eb\u30c9",
+                "equipId": 1450000,
+                "value": 1000
+            },
+            "1122": {
+                "name": "1460000\u6226\u58eb\u306e\u5186\u76fe",
+                "equipId": 1460000,
+                "value": 800
+            },
+            "1123": {
+                "name": "2000000\u30ce\u30fc\u30de\u30eb\u77e2",
+                "equipId": 2000000,
+                "value": 10
+            },
+            "1124": {
+                "name": "2001000\u5927\u304d\u306a\u77e2",
+                "equipId": 2001000,
+                "value": 50
+            },
+            "1125": {
+                "name": "2006000\u5b89\u3044\u77e2",
+                "equipId": 2006000,
+                "value": 3
+            },
+            "1126": {
+                "name": "2100000\u666e\u901a\u306e\u592a\u77e2",
+                "equipId": 2100000,
+                "value": 30
+            },
+            "1127": {
+                "name": "2101000\u30d8\u30d3\u30fc\u30dc\u30eb\u30c8",
+                "equipId": 2101000,
+                "value": 100
+            },
+            "1128": {
+                "name": "2103000\u5b89\u3044\u592a\u77e2",
+                "equipId": 2103000,
+                "value": 10
+            },
+            "1129": {
+                "name": "\u30c1\u30a7\u30a4\u30f3\u88c5\u5099",
+                "equipId": 170000,
+                "value": 500,
+                "equipType": 1
+            },
+            "1130": {
+                "name": "\u30c1\u30a7\u30a4\u30f3\u88c5\u5099",
+                "equipId": 171000,
+                "value": 800,
+                "equipType": 1
+            },
+            "1131": {
+                "name": "\u30c1\u30a7\u30a4\u30f3\u88c5\u5099",
+                "equipId": 172000,
+                "value": 500,
+                "equipType": 1
+            },
+            "1132": {
+                "name": "\u30c1\u30a7\u30a4\u30f3\u88c5\u5099",
+                "equipId": 173000,
+                "value": 500,
+                "equipType": 1
+            },
+            "1133": {
+                "name": "2608\u5e95\u306a\u3057\u306e\u6728\u7bb1",
+                "equipId": 2608,
+                "value": 1000,
+                "eventFlag": 11007010,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "1134": {
+                "name": "385Dried finger",
+                "equipId": 385,
+                "value": 2000,
+                "eventFlag": 11017210,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "1200": {
+                "name": "270\u8840\u8d64\u306e\u82d4\u7389",
+                "equipId": 270,
+                "value": 300,
+                "equipType": 3
+            },
+            "1201": {
+                "name": "271\u6bd2\u7d2b\u306e\u82d4\u7389",
+                "equipId": 271,
+                "value": 500,
+                "equipType": 3
+            },
+            "1202": {
+                "name": "272\u6bd2\u7d2b\u306e\u82b1\u82d4\u7389",
+                "equipId": 272,
+                "value": 1000,
+                "equipType": 3
+            },
+            "1203": {
+                "name": "291\u6bd2\u6295\u3052\u30ca\u30a4\u30d5",
+                "equipId": 291,
+                "value": 100,
+                "equipType": 3
+            },
+            "1204": {
+                "name": "293\u7cde\u56e3\u5b50",
+                "equipId": 293,
+                "value": 200,
+                "equipType": 3
+            },
+            "1205": {
+                "name": "294\u8a98\u3044\u982d\u84cb",
+                "equipId": 294,
+                "value": 500,
+                "equipType": 3
+            },
+            "1206": {
+                "name": "310\u70ad\u677e\u8102",
+                "equipId": 310,
+                "value": 500,
+                "equipType": 3
+            },
+            "1207": {
+                "name": "312\u4e00\u6642\u306e\u546a\u3044",
+                "equipId": 312,
+                "value": 4000,
+                "eventFlag": 11017190,
+                "sellQuantity": 4,
+                "equipType": 3
+            },
+            "1208": {
+                "name": "313\u8150\u308c\u677e\u8102",
+                "equipId": 313,
+                "value": 1000,
+                "equipType": 3
+            },
+            "1209": {
+                "name": "330\u5e30\u9084\u306e\u9aa8\u7247",
+                "equipId": 330,
+                "value": 500,
+                "equipType": 3
+            },
+            "1210": {
+                "name": "370\u4e03\u8272\u77f3",
+                "equipId": 370,
+                "value": 10,
+                "equipType": 3
+            },
+            "1211": {
+                "name": "500\u4eba\u9593\u6027",
+                "equipId": 500,
+                "value": 5000,
+                "eventFlag": 11027020,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "1212": {
+                "name": "2003000\u706b\u77e2",
+                "equipId": 2003000,
+                "value": 100
+            },
+            "1213": {
+                "name": "2004000\u6bd2\u77e2",
+                "equipId": 2004000,
+                "value": 100
+            },
+            "1214": {
+                "name": "274\u89e3\u546a\u77f3",
+                "equipId": 274,
+                "value": 6000,
+                "equipType": 3
+            },
+            "1215": {
+                "name": "2000000\u30ce\u30fc\u30de\u30eb\u77e2",
+                "equipId": 2000000,
+                "value": 10
+            },
+            "1216": {
+                "name": "2001000\u5927\u304d\u306a\u77e2",
+                "equipId": 2001000,
+                "value": 50
+            },
+            "1217": {
+                "name": "2006000\u5b89\u3044\u77e2",
+                "equipId": 2006000,
+                "value": 3
+            },
+            "1218": {
+                "name": "2100000\u666e\u901a\u306e\u592a\u77e2",
+                "equipId": 2100000,
+                "value": 30
+            },
+            "1219": {
+                "name": "2101000\u30d8\u30d3\u30fc\u30dc\u30eb\u30c8",
+                "equipId": 2101000,
+                "value": 100
+            },
+            "1220": {
+                "name": "2103000\u5b89\u3044\u592a\u77e2",
+                "equipId": 2103000,
+                "value": 10
+            },
+            "1400": {
+                "name": "1000\u6954\u77f3\u306e\u6b20\u7247",
+                "equipId": 1000,
+                "value": 800,
+                "equipType": 3
+            },
+            "1401": {
+                "name": "2002\u30a2\u30eb\u30c8\u30ea\u30a6\u30b9\u306e\u7d0b\u7ae0",
+                "equipId": 2002,
+                "value": 20000,
+                "eventFlag": 11017140,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "1402": {
+                "name": "2600\u6b66\u5668\u306e\u935b\u6cbb\u7bb1",
+                "equipId": 2600,
+                "value": 2000,
+                "eventFlag": 11017150,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "1403": {
+                "name": "2601\u9632\u5177\u306e\u935b\u6cbb\u7bb1",
+                "equipId": 2601,
+                "value": 2000,
+                "eventFlag": 11017160,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "1404": {
+                "name": "2602\u4fee\u7406\u7bb1",
+                "equipId": 2602,
+                "value": 2000,
+                "eventFlag": 11017170,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "1405": {
+                "name": "201000\u30ed\u30f3\u30b0\u30bd\u30fc\u30c9",
+                "equipId": 201000,
+                "value": 1000
+            },
+            "1406": {
+                "name": "202000\u30d6\u30ed\u30fc\u30c9\u30bd\u30fc\u30c9",
+                "equipId": 202000,
+                "value": 1000
+            },
+            "1407": {
+                "name": "300000\u30d0\u30b9\u30bf\u30fc\u30c9\u30bd\u30fc\u30c9",
+                "equipId": 300000,
+                "value": 3000
+            },
+            "1408": {
+                "name": "701000\u30d0\u30c8\u30eb\u30a2\u30af\u30b9",
+                "equipId": 701000,
+                "value": 1000
+            },
+            "1409": {
+                "name": "803000\u30a6\u30a9\u30fc\u30d4\u30c3\u30af",
+                "equipId": 803000,
+                "value": 800
+            },
+            "1410": {
+                "name": "901000\u30bb\u30b9\u30bf\u30b9",
+                "equipId": 901000,
+                "value": 200
+            },
+            "1411": {
+                "name": "1050000\u30d1\u30a4\u30af",
+                "equipId": 1050000,
+                "value": 2000
+            },
+            "1412": {
+                "name": "1402000\u30e9\u30fc\u30b8\u30ec\u30b6\u30fc\u30b7\u30fc\u30eb\u30c9",
+                "equipId": 1402000,
+                "value": 800
+            },
+            "1413": {
+                "name": "1452000\u5854\u306e\u30ab\u30a4\u30c8\u30b7\u30fc\u30eb\u30c9",
+                "equipId": 1452000,
+                "value": 1000
+            },
+            "1414": {
+                "name": "1477000\u53cc\u86c7\u306e\u30ab\u30a4\u30c8\u30b7\u30fc\u30eb\u30c9",
+                "equipId": 1477000,
+                "value": 1000
+            },
+            "1415": {
+                "name": "2000000\u30ce\u30fc\u30de\u30eb\u77e2",
+                "equipId": 2000000,
+                "value": 10
+            },
+            "1416": {
+                "name": "2001000\u5927\u304d\u306a\u77e2",
+                "equipId": 2001000,
+                "value": 50
+            },
+            "1417": {
+                "name": "2006000\u5b89\u3044\u77e2",
+                "equipId": 2006000,
+                "value": 3
+            },
+            "1418": {
+                "name": "2100000\u666e\u901a\u306e\u592a\u77e2",
+                "equipId": 2100000,
+                "value": 30
+            },
+            "1419": {
+                "name": "2101000\u30d8\u30d3\u30fc\u30dc\u30eb\u30c8",
+                "equipId": 2101000,
+                "value": 100
+            },
+            "1420": {
+                "name": "2103000\u5b89\u3044\u592a\u77e2",
+                "equipId": 2103000,
+                "value": 10
+            },
+            "1500": {
+                "name": "311\u9ec4\u91d1\u677e\u8102",
+                "equipId": 311,
+                "value": 1000,
+                "eventFlag": 11007000,
+                "sellQuantity": 3,
+                "equipType": 3
+            },
+            "1501": {
+                "name": "2608\u5e95\u306a\u3057\u306e\u6728\u7bb1",
+                "equipId": 2608,
+                "value": 1000,
+                "eventFlag": 11007010,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "1502": {
+                "name": "205000\u7d50\u6676\u76f4\u5263",
+                "equipId": 205000,
+                "value": 4000
+            },
+            "1503": {
+                "name": "304000\u7d50\u6676\u5927\u5263",
+                "equipId": 304000,
+                "value": 6000
+            },
+            "1504": {
+                "name": "1471000\u7d50\u6676\u306e\u76fe",
+                "equipId": 1471000,
+                "value": 4000
+            },
+            "1505": {
+                "name": "\u30c8\u30ea\u30c3\u30af\u30b9\u30bf\u30fc\u88c5\u5099",
+                "equipId": 110000,
+                "value": 12000,
+                "equipType": 1
+            },
+            "1506": {
+                "name": "\u30c8\u30ea\u30c3\u30af\u30b9\u30bf\u30fc\u88c5\u5099",
+                "equipId": 111000,
+                "value": 15000,
+                "equipType": 1
+            },
+            "1507": {
+                "name": "\u30c8\u30ea\u30c3\u30af\u30b9\u30bf\u30fc\u88c5\u5099",
+                "equipId": 112000,
+                "value": 10000,
+                "equipType": 1
+            },
+            "1508": {
+                "name": "\u30c8\u30ea\u30c3\u30af\u30b9\u30bf\u30fc\u88c5\u5099",
+                "equipId": 113000,
+                "value": 10000,
+                "equipType": 1
+            },
+            "1509": {
+                "name": "2000000\u30ce\u30fc\u30de\u30eb\u77e2",
+                "equipId": 2000000,
+                "value": 10
+            },
+            "1510": {
+                "name": "2001000\u5927\u304d\u306a\u77e2",
+                "equipId": 2001000,
+                "value": 50
+            },
+            "1511": {
+                "name": "2006000\u5b89\u3044\u77e2",
+                "equipId": 2006000,
+                "value": 3
+            },
+            "1512": {
+                "name": "2100000\u666e\u901a\u306e\u592a\u77e2",
+                "equipId": 2100000,
+                "value": 30
+            },
+            "1513": {
+                "name": "2101000\u30d8\u30d3\u30fc\u30dc\u30eb\u30c8",
+                "equipId": 2101000,
+                "value": 100
+            },
+            "1514": {
+                "name": "2103000\u5b89\u3044\u592a\u77e2",
+                "equipId": 2103000,
+                "value": 10
+            },
+            "1550": {
+                "name": "470000\u30b4\u30fc\u30ec\u30e0\u30d8\u30eb\u30e0",
+                "equipId": 470000,
+                "value": 5000,
+                "eventFlag": 11807020,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1551": {
+                "name": "471000\u30b4\u30fc\u30ec\u30e0\u30a2\u30fc\u30de\u30fc",
+                "equipId": 471000,
+                "value": 7000,
+                "eventFlag": 11807030,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1552": {
+                "name": "472000\u30b4\u30fc\u30ec\u30e0\u30ac\u30f3\u30c8\u30ec\u30c3\u30c8",
+                "equipId": 472000,
+                "value": 5000,
+                "eventFlag": 11807040,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1553": {
+                "name": "473000\u30b4\u30fc\u30ec\u30e0\u30ec\u30ae\u30f3\u30b9",
+                "equipId": 473000,
+                "value": 5000,
+                "eventFlag": 11807050,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1554": {
+                "name": "80000\u30b9\u30e2\u30a6\u306e\u515c",
+                "equipId": 80000,
+                "value": 6000,
+                "eventFlag": 11807060,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1555": {
+                "name": "81000\u30b9\u30e2\u30a6\u306e\u93a7",
+                "equipId": 81000,
+                "value": 7000,
+                "eventFlag": 11807070,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1556": {
+                "name": "82000\u30b9\u30e2\u30a6\u306e\u624b\u7532",
+                "equipId": 82000,
+                "value": 5000,
+                "eventFlag": 11807080,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1557": {
+                "name": "83000\u30b9\u30e2\u30a6\u306e\u8db3\u7532",
+                "equipId": 83000,
+                "value": 5000,
+                "eventFlag": 11807090,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1558": {
+                "name": "270000\u30aa\u30fc\u30f3\u30b9\u30bf\u30a4\u30f3\u306e\u515c",
+                "equipId": 270000,
+                "value": 7000,
+                "eventFlag": 11807100,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1559": {
+                "name": "271000\u30aa\u30fc\u30f3\u30b9\u30bf\u30a4\u30f3\u306e\u93a7",
+                "equipId": 271000,
+                "value": 8000,
+                "eventFlag": 11807110,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1560": {
+                "name": "272000\u30aa\u30fc\u30f3\u30b9\u30bf\u30a4\u30f3\u306e\u624b\u7532",
+                "equipId": 272000,
+                "value": 6000,
+                "eventFlag": 11807120,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1561": {
+                "name": "273000\u30aa\u30fc\u30f3\u30b9\u30bf\u30a4\u30f3\u306e\u8db3\u7532",
+                "equipId": 273000,
+                "value": 6000,
+                "eventFlag": 11807130,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1562": {
+                "name": "540000\u9670\u306e\u592a\u967d\u306e\u738b\u51a0",
+                "equipId": 540000,
+                "value": 10000,
+                "eventFlag": 11807230,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1563": {
+                "name": "541000\u6708\u5149\u306e\u9577\u8863",
+                "equipId": 541000,
+                "value": 10000,
+                "eventFlag": 11807170,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1564": {
+                "name": "542000\u6708\u5149\u306e\u9577\u624b\u888b",
+                "equipId": 542000,
+                "value": 10000,
+                "eventFlag": 11807180,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1565": {
+                "name": "543000\u6708\u5149\u306e\u8170\u5dfb\u304d",
+                "equipId": 543000,
+                "value": 10000,
+                "eventFlag": 11807190,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1566": {
+                "name": "550000\u5927\u738b\u306e\u738b\u51a0",
+                "equipId": 550000,
+                "value": 20000,
+                "eventFlag": 11807240,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1567": {
+                "name": "551000\u5927\u738b\u306e\u9577\u8863",
+                "equipId": 551000,
+                "value": 20000,
+                "eventFlag": 11807200,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1568": {
+                "name": "552000\u5927\u738b\u306e\u8155\u8f2a",
+                "equipId": 552000,
+                "value": 20000,
+                "eventFlag": 11807210,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1569": {
+                "name": "553000\u5927\u738b\u306e\u811a\u8f2a",
+                "equipId": 553000,
+                "value": 20000,
+                "eventFlag": 11807220,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1580": {
+                "name": "2100\u4e07\u80fd\u9375",
+                "equipId": 2100,
+                "value": 5000,
+                "eventFlag": 11007020,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "1581": {
+                "name": "660000\u30a2\u30eb\u30c8\u30ea\u30a6\u30b9\u306e\u515c",
+                "equipId": 660000,
+                "value": 20000,
+                "eventFlag": 11217060,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1582": {
+                "name": "661000\u30a2\u30eb\u30c8\u30ea\u30a6\u30b9\u306e\u93a7",
+                "equipId": 661000,
+                "value": 20000,
+                "eventFlag": 11217070,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1583": {
+                "name": "662000\u30a2\u30eb\u30c8\u30ea\u30a6\u30b9\u306e\u624b\u7532",
+                "equipId": 662000,
+                "value": 20000,
+                "eventFlag": 11217080,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1584": {
+                "name": "663000\u30a2\u30eb\u30c8\u30ea\u30a6\u30b9\u306e\u8db3\u7532",
+                "equipId": 663000,
+                "value": 20000,
+                "eventFlag": 11217090,
+                "sellQuantity": 1,
+                "equipType": 1
+            },
+            "1600": {
+                "name": "109\u6b7b\u306e\u77b3",
+                "equipId": 109,
+                "value": 3000,
+                "eventFlag": 11307000,
+                "sellQuantity": 3,
+                "equipType": 3
+            },
+            "1601": {
+                "name": "240\u5973\u795e\u306e\u795d\u798f",
+                "equipId": 240,
+                "value": 20000,
+                "eventFlag": 11027040,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "1602": {
+                "name": "370\u4e03\u8272\u77f3",
+                "equipId": 370,
+                "value": 10,
+                "equipType": 3
+            },
+            "1603": {
+                "name": "500\u4eba\u9593\u6027",
+                "equipId": 500,
+                "value": 10000,
+                "eventFlag": 11027050,
+                "sellQuantity": 3,
+                "equipType": 3
+            },
+            "1604": {
+                "name": "501\u4eba\u9593\u6027\u306e\u53cc\u5b50",
+                "equipId": 501,
+                "value": 20000,
+                "eventFlag": 11307010,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "1605": {
+                "name": "\u5947\u8de1\uff1a\u56de\u5fa95000",
+                "equipId": 5000,
+                "value": 5000,
+                "eventFlag": 11027090,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "1606": {
+                "name": "\u5947\u8de1\uff1a\u9650\u3089\u308c\u305f\u5927\u56de\u5fa95020",
+                "equipId": 5020,
+                "value": 10000,
+                "eventFlag": 11027100,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "1607": {
+                "name": "702000\u30af\u30ec\u30bb\u30f3\u30c8\u30a2\u30af\u30b9",
+                "equipId": 702000,
+                "value": 10000,
+                "eventFlag": 11307020,
+                "sellQuantity": 1
+            },
+            "1608": {
+                "name": "801000\u30e1\u30a4\u30b9",
+                "equipId": 801000,
+                "value": 3000
+            },
+            "1609": {
+                "name": "1361000\u7c97\u5e03\u306e\u30bf\u30ea\u30b9\u30de\u30f3",
+                "equipId": 1361000,
+                "value": 1000
+            },
+            "1610": {
+                "name": "1362000\u30bd\u30eb\u30ed\u30f3\u30c9\u306e\u30bf\u30ea\u30b9\u30de\u30f3",
+                "equipId": 1362000,
+                "value": 5000
+            },
+            "1611": {
+                "name": "590000\u7236\u306e\u4eee\u9762",
+                "equipId": 590000,
+                "value": 8000,
+                "equipType": 1
+            },
+            "1612": {
+                "name": "600000\u6bcd\u306e\u4eee\u9762",
+                "equipId": 600000,
+                "value": 8000,
+                "equipType": 1
+            },
+            "1613": {
+                "name": "610000\u5b50\u306e\u4eee\u9762",
+                "equipId": 610000,
+                "value": 8000,
+                "equipType": 1
+            },
+            "1614": {
+                "name": "\u795e\u8077\u88c5\u5099",
+                "equipId": 180000,
+                "value": 5000,
+                "equipType": 1
+            },
+            "1615": {
+                "name": "\u795e\u8077\u88c5\u5099",
+                "equipId": 181000,
+                "value": 7000,
+                "equipType": 1
+            },
+            "1616": {
+                "name": "\u795e\u8077\u88c5\u5099",
+                "equipId": 182000,
+                "value": 5000,
+                "equipType": 1
+            },
+            "1617": {
+                "name": "\u795e\u8077\u88c5\u5099",
+                "equipId": 183000,
+                "value": 5000,
+                "equipType": 1
+            },
+            "1700": {
+                "name": "145\u6771\u306e\u6728\u76ee\u6307\u8f2a",
+                "equipId": 145,
+                "value": 10000,
+                "eventFlag": 11407000,
+                "sellQuantity": 1,
+                "equipType": 2
+            },
+            "1701": {
+                "name": "303000\u30d5\u30e9\u30f3\u30d9\u30eb\u30b8\u30a7",
+                "equipId": 303000,
+                "value": 10000
+            },
+            "1702": {
+                "name": "306000\u77f3\u306e\u5927\u5263",
+                "equipId": 306000,
+                "value": 15000
+            },
+            "1703": {
+                "name": "352000\u30c7\u30fc\u30e2\u30f3\u306e\u5927\u9248",
+                "equipId": 352000,
+                "value": 10000
+            },
+            "1704": {
+                "name": "402000\u30b7\u30e7\u30fc\u30c6\u30eb",
+                "equipId": 402000,
+                "value": 10000
+            },
+            "1705": {
+                "name": "500000\u6253\u5200",
+                "equipId": 500000,
+                "value": 5000
+            },
+            "1706": {
+                "name": "501000\u7269\u5e72\u3057\u7aff",
+                "equipId": 501000,
+                "value": 20000
+            },
+            "1707": {
+                "name": "751000\u30c7\u30fc\u30e2\u30f3\u306e\u5927\u65a7",
+                "equipId": 751000,
+                "value": 10000
+            },
+            "1708": {
+                "name": "902000\u304b\u304e\u722a",
+                "equipId": 902000,
+                "value": 5000
+            },
+            "1709": {
+                "name": "1003000\u30c7\u30fc\u30e2\u30f3\u306e\u69cd",
+                "equipId": 1003000,
+                "value": 15000
+            },
+            "2000": {
+                "name": "3000\u9b54\u8853\uff1a\u30bd\u30a6\u30eb\u306e\u77e2",
+                "equipId": 3000,
+                "value": 1000,
+                "eventFlag": 11027130,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "2001": {
+                "name": "3010\u9b54\u8853\uff1a\u5f37\u3044\u30bd\u30a6\u30eb\u306e\u77e2",
+                "equipId": 3010,
+                "value": 6000,
+                "eventFlag": 11027140,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "2002": {
+                "name": "3020\u9b54\u8853\uff1a\u30bd\u30a6\u30eb\u306e\u592a\u77e2",
+                "equipId": 3020,
+                "value": 2000,
+                "eventFlag": 11027150,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "2003": {
+                "name": "3030\u9b54\u8853\uff1a\u5f37\u3044\u30bd\u30a6\u30eb\u306e\u592a\u77e2",
+                "equipId": 3030,
+                "value": 8000,
+                "eventFlag": 11027160,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "2004": {
+                "name": "3100\u9b54\u8853\uff1a\u9b54\u6cd5\u306e\u6b66\u5668",
+                "equipId": 3100,
+                "value": 3000,
+                "eventFlag": 11027170,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "2005": {
+                "name": "3300\u9b54\u8853\uff1a\u9b54\u6cd5\u306e\u76fe",
+                "equipId": 3300,
+                "value": 3000,
+                "eventFlag": 11027180,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "2006": {
+                "name": "3520\u9b54\u8853\uff1a\u97f3\u9001\u308a",
+                "equipId": 3520,
+                "value": 1000,
+                "eventFlag": 11027190,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "2007": {
+                "name": "3540\u9b54\u8853\uff1a\u843d\u4e0b\u5236\u5fa1",
+                "equipId": 3540,
+                "value": 1500,
+                "eventFlag": 11027200,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "2008": {
+                "name": "115\u5420\u3048\u308b\u7adc\u5370\u306e\u6307\u8f2a",
+                "equipId": 115,
+                "value": 20000,
+                "eventFlag": 11027210,
+                "sellQuantity": 1,
+                "equipType": 2
+            },
+            "2009": {
+                "name": "141\u4f47\u3080\u7adc\u5370\u306e\u6307\u8f2a",
+                "equipId": 141,
+                "value": 20000,
+                "eventFlag": 11027220,
+                "sellQuantity": 1,
+                "equipType": 2
+            },
+            "2010": {
+                "name": "1300000\u9b54\u8853\u5e2b\u306e\u6756",
+                "equipId": 1300000,
+                "value": 500
+            },
+            "2020": {
+                "name": "\u9b54\u8853\uff1a\u8ffd\u5c3e\u3059\u308b\u30bd\u30a6\u30eb\u306e\u584a3040",
+                "equipId": 3040,
+                "value": 20000,
+                "eventFlag": 11027230,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "2021": {
+                "name": "\u9b54\u8853\uff1a\u30bd\u30a6\u30eb\u306e\u69cd3060",
+                "equipId": 3060,
+                "value": 40000,
+                "eventFlag": 11027240,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "2100": {
+                "name": "3000\u9b54\u8853\uff1a\u30bd\u30a6\u30eb\u306e\u77e2",
+                "equipId": 3000,
+                "value": 2000,
+                "eventFlag": 11607120,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "2101": {
+                "name": "3020\u9b54\u8853\uff1a\u30bd\u30a6\u30eb\u306e\u592a\u77e2",
+                "equipId": 3020,
+                "value": 4000,
+                "eventFlag": 11607130,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "2102": {
+                "name": "1300000\u9b54\u8853\u5e2b\u306e\u6756",
+                "equipId": 1300000,
+                "value": 500
+            },
+            "2200": {
+                "name": "3400\u9b54\u8853\uff1a\u898b\u3048\u306a\u3044\u6b66\u5668",
+                "equipId": 3400,
+                "value": 2000,
+                "eventFlag": 11207000,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "2201": {
+                "name": "3410\u9b54\u8853\uff1a\u898b\u3048\u306a\u3044\u4f53",
+                "equipId": 3410,
+                "value": 2000,
+                "eventFlag": 11207010,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "2202": {
+                "name": "3500\u9b54\u8853\uff1a\u7167\u3089\u3059\u5149",
+                "equipId": 3500,
+                "value": 1000,
+                "eventFlag": 11207020,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "2203": {
+                "name": "3530\u9b54\u8853\uff1a\u4fee\u5fa9",
+                "equipId": 3530,
+                "value": 10000,
+                "eventFlag": 11207030,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "2204": {
+                "name": "3550\u9b54\u8853\uff1a\u64ec\u614b",
+                "equipId": 3550,
+                "value": 3000,
+                "eventFlag": 11207040,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "2205": {
+                "name": "1305000\u30a6\u30fc\u30e9\u30b7\u30fc\u30eb\u306e\u767d\u679d",
+                "equipId": 1305000,
+                "value": 1000
+            },
+            "2400": {
+                "name": "3600\u9b54\u8853\uff1a\u89e3\u546a",
+                "equipId": 3600,
+                "value": 5000,
+                "eventFlag": 11607000,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "2401": {
+                "name": "312\u4e00\u6642\u306e\u546a\u3044",
+                "equipId": 312,
+                "value": 1000,
+                "equipType": 3
+            },
+            "3000": {
+                "name": "4000\u546a\u8853\uff1a\u706b\u7403",
+                "equipId": 4000,
+                "value": 800,
+                "eventFlag": 11407030,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "3001": {
+                "name": "4010\u546a\u8853\uff1a\u706b\u306e\u7389",
+                "equipId": 4010,
+                "value": 8000,
+                "eventFlag": 11407040,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "3002": {
+                "name": "4100\u546a\u8853\uff1a\u767a\u706b",
+                "equipId": 4100,
+                "value": 500,
+                "eventFlag": 11407050,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "3003": {
+                "name": "4300\u546a\u8853\uff1a\u9244\u306e\u4f53",
+                "equipId": 4300,
+                "value": 2000,
+                "eventFlag": 11407060,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "3004": {
+                "name": "4310\u546a\u8853\uff1a\u6fc0\u3057\u3044\u767a\u6c57",
+                "equipId": 4310,
+                "value": 2000,
+                "eventFlag": 11407070,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "3200": {
+                "name": "\u5f93\u8005\u4e00\u89a7112",
+                "equipId": 112,
+                "value": 500,
+                "eventFlag": 11407080,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "3210": {
+                "name": "275\u305f\u307e\u3054\u304f\u3060\u3057",
+                "equipId": 275,
+                "value": 1000,
+                "equipType": 3
+            },
+            "3211": {
+                "name": "4200\u546a\u8853\uff1a\u6bd2\u306e\u9727",
+                "equipId": 4200,
+                "value": 10000,
+                "eventFlag": 11407090,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "3212": {
+                "name": "4210\u546a\u8853\uff1a\u731b\u6bd2\u306e\u9727",
+                "equipId": 4210,
+                "value": 25000,
+                "eventFlag": 11407100,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "3400": {
+                "name": "4000\u546a\u8853\uff1a\u706b\u7403",
+                "equipId": 4000,
+                "value": 800,
+                "eventFlag": 11407120,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "3401": {
+                "name": "4010\u546a\u8853\uff1a\u706b\u306e\u7389",
+                "equipId": 4010,
+                "value": 8000,
+                "eventFlag": 11407130,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "3402": {
+                "name": "4020\u546a\u8853\uff1a\u5927\u706b\u7403",
+                "equipId": 4020,
+                "value": 20000,
+                "eventFlag": 11407150,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "3403": {
+                "name": "4030\u546a\u8853\uff1a\u708e\u306e\u5d50",
+                "equipId": 4030,
+                "value": 30000,
+                "eventFlag": 11407160,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "3404": {
+                "name": "4060\u546a\u8853\uff1a\u306a\u304e\u6255\u3046\u708e",
+                "equipId": 4060,
+                "value": 10000,
+                "eventFlag": 11407170,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "3405": {
+                "name": "4100\u546a\u8853\uff1a\u767a\u706b",
+                "equipId": 4100,
+                "value": 500,
+                "eventFlag": 11407140,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "3406": {
+                "name": "4110\u546a\u8853\uff1a\u5927\u767a\u706b",
+                "equipId": 4110,
+                "value": 5000,
+                "eventFlag": 11407180,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "3407": {
+                "name": "4360\u546a\u8853\uff1a\u4e0d\u6b7b\u306e\u9b45\u4e86",
+                "equipId": 4360,
+                "value": 10000,
+                "eventFlag": 11407190,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "4000": {
+                "name": "5000\u5947\u8de1\uff1a\u56de\u5fa9",
+                "equipId": 5000,
+                "value": 4000,
+                "eventFlag": 11027260,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "4001": {
+                "name": "5020\u5947\u8de1\uff1a\u9650\u3089\u308c\u305f\u5927\u56de\u5fa9",
+                "equipId": 5020,
+                "value": 10000,
+                "eventFlag": 11027270,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "4002": {
+                "name": "5210\u5947\u8de1\uff1a\u5e30\u9084",
+                "equipId": 5210,
+                "value": 8000,
+                "eventFlag": 11027280,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "4003": {
+                "name": "5300\u5947\u8de1\uff1a\u30d5\u30a9\u30fc\u30b9",
+                "equipId": 5300,
+                "value": 4000,
+                "eventFlag": 11027290,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "4004": {
+                "name": "5400\u5947\u8de1\uff1a\u52a9\u8a00\u6c42\u3081",
+                "equipId": 5400,
+                "value": 2000,
+                "eventFlag": 11017180,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "4005": {
+                "name": "1360000\u30bf\u30ea\u30b9\u30de\u30f3",
+                "equipId": 1360000,
+                "value": 1000
+            },
+            "4006": {
+                "name": "1362000\u30bd\u30eb\u30ed\u30f3\u30c9\u306e\u30bf\u30ea\u30b9\u30de\u30f3",
+                "equipId": 1362000,
+                "value": 5000
+            },
+            "4200": {
+                "name": "240\u5973\u795e\u306e\u795d\u798f",
+                "equipId": 240,
+                "value": 1000,
+                "eventFlag": 11017050,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "4201": {
+                "name": "5000\u5947\u8de1\uff1a\u56de\u5fa9",
+                "equipId": 5000,
+                "value": 1000,
+                "eventFlag": 11017060,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "4202": {
+                "name": "5020\u5947\u8de1\uff1a\u9650\u3089\u308c\u305f\u5927\u56de\u5fa9",
+                "equipId": 5020,
+                "value": 2000,
+                "eventFlag": 11017070,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "4203": {
+                "name": "5210\u5947\u8de1\uff1a\u5e30\u9084",
+                "equipId": 5210,
+                "value": 1000,
+                "eventFlag": 11017080,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "4204": {
+                "name": "5300\u5947\u8de1\uff1a\u30d5\u30a9\u30fc\u30b9",
+                "equipId": 5300,
+                "value": 1000,
+                "eventFlag": 11017090,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "4205": {
+                "name": "5010\u5947\u8de1\uff1a\u5927\u56de\u5fa9",
+                "equipId": 5010,
+                "value": 10000,
+                "eventFlag": 11017100,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "4206": {
+                "name": "5310\u5947\u8de1\uff1a\u795e\u306e\u6012\u308a",
+                "equipId": 5310,
+                "value": 10000,
+                "eventFlag": 11017110,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "4207": {
+                "name": "5400\u5947\u8de1\uff1a\u52a9\u8a00\u6c42\u3081",
+                "equipId": 5400,
+                "value": 500,
+                "eventFlag": 11017120,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "4208": {
+                "name": "5600\u5947\u8de1\uff1a\u9b54\u6cd5\u9632\u8b77",
+                "equipId": 5600,
+                "value": 6000,
+                "eventFlag": 11017130,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "4209": {
+                "name": "1360000\u30bf\u30ea\u30b9\u30de\u30f3",
+                "equipId": 1360000,
+                "value": 200
+            },
+            "4400": {
+                "name": "108\u7f6a\u4eba\u4e00\u89a7",
+                "equipId": 108,
+                "value": 1000,
+                "eventFlag": 11607020,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "4401": {
+                "name": "274\u89e3\u546a\u77f3",
+                "equipId": 274,
+                "value": 3000,
+                "eventFlag": 11607110,
+                "sellQuantity": 5,
+                "equipType": 3
+            },
+            "4402": {
+                "name": "373\u544a\u7f6a\u7b26",
+                "equipId": 373,
+                "value": 200,
+                "equipType": 3
+            },
+            "4403": {
+                "name": "5700\u5947\u8de1\uff1a\u56e0\u679c\u5fdc\u5831",
+                "equipId": 5700,
+                "value": 40000,
+                "eventFlag": 11607030,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "4404": {
+                "name": "1367000\u30d9\u30eb\u30ab\u306e\u30bf\u30ea\u30b9\u30de\u30f3",
+                "equipId": 1367000,
+                "value": 5000
+            },
+            "4405": {
+                "name": "109\u8840\u54ac\u307f\u306e\u6307\u8f2a",
+                "equipId": 109,
+                "value": 10000,
+                "eventFlag": 11607050,
+                "sellQuantity": 1,
+                "equipType": 2
+            },
+            "4406": {
+                "name": "110\u6bd2\u54ac\u307f\u306e\u6307\u8f2a",
+                "equipId": 110,
+                "value": 15000,
+                "eventFlag": 11607060,
+                "sellQuantity": 1,
+                "equipType": 2
+            },
+            "4407": {
+                "name": "126\u72a0\u7272\u306e\u6307\u8f2a",
+                "equipId": 126,
+                "value": 5000,
+                "eventFlag": 11607080,
+                "sellQuantity": 10,
+                "equipType": 2
+            },
+            "4408": {
+                "name": "330\u5e30\u9084\u306e\u9aa8\u7247",
+                "equipId": 330,
+                "value": 500,
+                "equipType": 3
+            },
+            "5000": {
+                "name": "3000\u9b54\u8853\uff1a\u30bd\u30a6\u30eb\u306e\u77e2",
+                "equipId": 3000,
+                "value": 1000,
+                "eventFlag": 11707000,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "5001": {
+                "name": "3010\u9b54\u8853\uff1a\u5f37\u3044\u30bd\u30a6\u30eb\u306e\u77e2",
+                "equipId": 3010,
+                "value": 6000,
+                "eventFlag": 11707010,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "5002": {
+                "name": "3020\u9b54\u8853\uff1a\u30bd\u30a6\u30eb\u306e\u592a\u77e2",
+                "equipId": 3020,
+                "value": 2000,
+                "eventFlag": 11707020,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "5003": {
+                "name": "3030\u9b54\u8853\uff1a\u5f37\u3044\u30bd\u30a6\u30eb\u306e\u592a\u77e2",
+                "equipId": 3030,
+                "value": 8000,
+                "eventFlag": 11707030,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "5004": {
+                "name": "3040\u9b54\u8853\uff1a\u8ffd\u5c3e\u3059\u308b\u30bd\u30a6\u30eb\u306e\u584a",
+                "equipId": 3040,
+                "value": 20000,
+                "eventFlag": 11707060,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "5005": {
+                "name": "3060\u9b54\u8853\uff1a\u30bd\u30a6\u30eb\u306e\u69cd",
+                "equipId": 3060,
+                "value": 40000,
+                "eventFlag": 11707070,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "5006": {
+                "name": "3100\u9b54\u8853\uff1a\u9b54\u6cd5\u306e\u6b66\u5668",
+                "equipId": 3100,
+                "value": 3000,
+                "eventFlag": 11707040,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "5007": {
+                "name": "3300\u9b54\u8853\uff1a\u9b54\u6cd5\u306e\u76fe",
+                "equipId": 3300,
+                "value": 3000,
+                "eventFlag": 11707050,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "5020": {
+                "name": "3050\u9b54\u8853\uff1a\u8ffd\u5c3e\u3059\u308b\u30bd\u30a6\u30eb\u306e\u7d50\u6676\u584a",
+                "equipId": 3050,
+                "value": 30000,
+                "eventFlag": 11707090,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "5021": {
+                "name": "3070\u9b54\u8853\uff1a\u30bd\u30a6\u30eb\u306e\u7d50\u6676\u69cd",
+                "equipId": 3070,
+                "value": 50000,
+                "eventFlag": 11707100,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "5022": {
+                "name": "3120\u9b54\u8853\uff1a\u7d50\u6676\u9b54\u6cd5\u306e\u6b66\u5668",
+                "equipId": 3120,
+                "value": 20000,
+                "eventFlag": 11707110,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "5300": {
+                "name": "260\u7dd1\u82b1\u8349",
+                "equipId": 260,
+                "value": 1000,
+                "equipType": 3
+            },
+            "5301": {
+                "name": "297\u9ed2\u3044\u706b\u708e\u58f7",
+                "equipId": 297,
+                "value": 500,
+                "equipType": 3
+            },
+            "5302": {
+                "name": "1000\u6954\u77f3\u306e\u6b20\u7247",
+                "equipId": 1000,
+                "value": 1000,
+                "equipType": 3
+            },
+            "5303": {
+                "name": "1010\u6954\u77f3\u306e\u5927\u6b20\u7247",
+                "equipId": 1010,
+                "value": 4000,
+                "equipType": 3
+            },
+            "5304": {
+                "name": "1020\u7dd1\u6954\u306e\u5927\u6b20\u7247",
+                "equipId": 1020,
+                "value": 5000,
+                "equipType": 3
+            },
+            "5306": {
+                "name": "106\u96f7\u65b9\u77f3\u306e\u6307\u8f2a",
+                "equipId": 106,
+                "value": 15000,
+                "eventFlag": 11507030,
+                "sellQuantity": 1,
+                "equipType": 2
+            },
+            "5307": {
+                "name": "107\u9b54\u6cd5\u65b9\u77f3\u306e\u6307\u8f2a",
+                "equipId": 107,
+                "value": 15000,
+                "eventFlag": 11507040,
+                "sellQuantity": 1,
+                "equipType": 2
+            },
+            "5308": {
+                "name": "351000\u30b0\u30ec\u30fc\u30c8\u30bd\u30fc\u30c9",
+                "equipId": 351000,
+                "value": 8000
+            },
+            "5309": {
+                "name": "750000\u30b0\u30ec\u30fc\u30c8\u30a2\u30af\u30b9",
+                "equipId": 750000,
+                "value": 8000
+            },
+            "5310": {
+                "name": "1455000\u30d0\u30eb\u30c7\u30eb\u306e\u76fe",
+                "equipId": 1455000,
+                "value": 4000
+            },
+            "5311": {
+                "name": "1501000\u30bf\u30ef\u30fc\u30b7\u30fc\u30eb\u30c9",
+                "equipId": 1501000,
+                "value": 8000
+            },
+            "5312": {
+                "name": "2000000\u30ce\u30fc\u30de\u30eb\u77e2",
+                "equipId": 2000000,
+                "value": 10
+            },
+            "5313": {
+                "name": "2001000\u5927\u304d\u306a\u77e2",
+                "equipId": 2001000,
+                "value": 50
+            },
+            "5314": {
+                "name": "2002000\u7fbd\u6839\u77e2",
+                "equipId": 2002000,
+                "value": 100
+            },
+            "5315": {
+                "name": "2100000\u666e\u901a\u306e\u592a\u77e2",
+                "equipId": 2100000,
+                "value": 30
+            },
+            "5316": {
+                "name": "2101000\u30d8\u30d3\u30fc\u30dc\u30eb\u30c8",
+                "equipId": 2101000,
+                "value": 100
+            },
+            "5317": {
+                "name": "2102000\u30b9\u30ca\u30a4\u30d1\u30fc\u30dc\u30eb\u30c8",
+                "equipId": 2102000,
+                "value": 250
+            },
+            "5318": {
+                "name": "\u30ab\u30bf\u30ea\u30ca\u88c5\u5099",
+                "equipId": 10000,
+                "value": 10000,
+                "equipType": 1
+            },
+            "5319": {
+                "name": "\u30ab\u30bf\u30ea\u30ca\u88c5\u5099",
+                "equipId": 11000,
+                "value": 10000,
+                "equipType": 1
+            },
+            "5320": {
+                "name": "\u30ab\u30bf\u30ea\u30ca\u88c5\u5099",
+                "equipId": 12000,
+                "value": 7000,
+                "equipType": 1
+            },
+            "5321": {
+                "name": "\u30ab\u30bf\u30ea\u30ca\u88c5\u5099",
+                "equipId": 13000,
+                "value": 7000,
+                "equipType": 1
+            },
+            "5322": {
+                "name": "\u92fc\u9244\u88c5\u5099",
+                "equipId": 490000,
+                "value": 5000,
+                "equipType": 1
+            },
+            "5323": {
+                "name": "\u92fc\u9244\u88c5\u5099",
+                "equipId": 491000,
+                "value": 8000,
+                "equipType": 1
+            },
+            "5324": {
+                "name": "\u92fc\u9244\u88c5\u5099",
+                "equipId": 492000,
+                "value": 5000,
+                "equipType": 1
+            },
+            "5325": {
+                "name": "\u92fc\u9244\u88c5\u5099",
+                "equipId": 493000,
+                "value": 5000,
+                "equipType": 1
+            },
+            "5326": {
+                "name": "\u30d0\u30eb\u30c7\u30eb\u88c5\u5099",
+                "equipId": 510000,
+                "value": 5000,
+                "equipType": 1
+            },
+            "5327": {
+                "name": "\u30d0\u30eb\u30c7\u30eb\u88c5\u5099",
+                "equipId": 511000,
+                "value": 8000,
+                "equipType": 1
+            },
+            "5328": {
+                "name": "\u30d0\u30eb\u30c7\u30eb\u88c5\u5099",
+                "equipId": 512000,
+                "value": 5000,
+                "equipType": 1
+            },
+            "5329": {
+                "name": "\u30d0\u30eb\u30c7\u30eb\u88c5\u5099",
+                "equipId": 513000,
+                "value": 5000,
+                "equipType": 1
+            },
+            "6100": {
+                "name": "111\u3072\u3073\u5272\u308c\u305f\u8d64\u3044\u77b3\u306e\u30aa\u30fc\u30d6",
+                "equipId": 111,
+                "value": 3000,
+                "equipType": 3
+            },
+            "6200": {
+                "name": "1101000\u5de8\u4eba\u306e\u30cf\u30eb\u30d0\u30fc\u30c9",
+                "equipId": 1101000,
+                "value": 5000
+            },
+            "6201": {
+                "name": "1502000\u30bb\u30f3\u30c1\u30cd\u30eb\u30b7\u30fc\u30eb\u30c9",
+                "equipId": 1502000,
+                "value": 10000
+            },
+            "6202": {
+                "name": "2005000\u6708\u5149\u77e2",
+                "equipId": 2005000,
+                "value": 500
+            },
+            "6203": {
+                "name": "2007000\u7adc\u72e9\u308a\u306e\u5927\u77e2",
+                "equipId": 2007000,
+                "value": 500
+            },
+            "6204": {
+                "name": "2000000\u30ce\u30fc\u30de\u30eb\u77e2",
+                "equipId": 2000000,
+                "value": 10
+            },
+            "6205": {
+                "name": "2001000\u5927\u304d\u306a\u77e2",
+                "equipId": 2001000,
+                "value": 50
+            },
+            "6206": {
+                "name": "2002000\u7fbd\u6839\u77e2",
+                "equipId": 2002000,
+                "value": 100
+            },
+            "6207": {
+                "name": "2104000\u96f7\u306e\u30dc\u30eb\u30c8",
+                "equipId": 2104000,
+                "value": 700
+            },
+            "6208": {
+                "name": "2100000\u666e\u901a\u306e\u592a\u77e2",
+                "equipId": 2100000,
+                "value": 30
+            },
+            "6209": {
+                "name": "2101000\u30d8\u30d3\u30fc\u30dc\u30eb\u30c8",
+                "equipId": 2101000,
+                "value": 100
+            },
+            "6210": {
+                "name": "2102000\u30b9\u30ca\u30a4\u30d1\u30fc\u30dc\u30eb\u30c8",
+                "equipId": 2102000,
+                "value": 250
+            },
+            "6211": {
+                "name": "\u30bb\u30f3\u30c1\u30cd\u30eb\u88c5\u5099",
+                "equipId": 530000,
+                "value": 6000,
+                "equipType": 1
+            },
+            "6212": {
+                "name": "\u30bb\u30f3\u30c1\u30cd\u30eb\u88c5\u5099",
+                "equipId": 531000,
+                "value": 8000,
+                "equipType": 1
+            },
+            "6213": {
+                "name": "\u30bb\u30f3\u30c1\u30cd\u30eb\u88c5\u5099",
+                "equipId": 532000,
+                "value": 6000,
+                "equipType": 1
+            },
+            "6214": {
+                "name": "\u30bb\u30f3\u30c1\u30cd\u30eb\u88c5\u5099",
+                "equipId": 533000,
+                "value": 6000,
+                "equipType": 1
+            },
+            "6215": {
+                "name": "2600\u6b66\u5668\u306e\u935b\u6cbb\u7bb1",
+                "equipId": 2600,
+                "value": 2000,
+                "eventFlag": 11017150,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "6216": {
+                "name": "2601\u9632\u5177\u306e\u935b\u6cbb\u7bb1",
+                "equipId": 2601,
+                "value": 2000,
+                "eventFlag": 11017160,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "6217": {
+                "name": "2602\u4fee\u7406\u7bb1",
+                "equipId": 2602,
+                "value": 2000,
+                "eventFlag": 11017170,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "6218": {
+                "name": "1000\u6954\u77f3\u306e\u6b20\u7247",
+                "equipId": 1000,
+                "value": 800,
+                "equipType": 3
+            },
+            "6219": {
+                "name": "1010\u6954\u77f3\u306e\u5927\u6b20\u7247",
+                "equipId": 1010,
+                "value": 3800,
+                "equipType": 3
+            },
+            "6220": {
+                "name": "1020\u7dd1\u6954\u306e\u5927\u6b20\u7247",
+                "equipId": 1020,
+                "value": 4800,
+                "equipType": 3
+            },
+            "6221": {
+                "name": "1130\u5149\u308b\u6954\u77f3",
+                "equipId": 1130,
+                "value": 8000,
+                "equipType": 3
+            },
+            "6300": {
+                "name": "330\u5e30\u9084\u306e\u9aa8\u7247",
+                "equipId": 330,
+                "value": 500,
+                "equipType": 3
+            },
+            "6301": {
+                "name": "1000\u6954\u77f3\u306e\u6b20\u7247",
+                "equipId": 1000,
+                "value": 800,
+                "equipType": 3
+            },
+            "6302": {
+                "name": "2600\u6b66\u5668\u306e\u935b\u6cbb\u7bb1",
+                "equipId": 2600,
+                "value": 2000,
+                "eventFlag": 11017150,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "6303": {
+                "name": "2601\u9632\u5177\u306e\u935b\u6cbb\u7bb1",
+                "equipId": 2601,
+                "value": 2000,
+                "eventFlag": 11017160,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "6304": {
+                "name": "2602\u4fee\u7406\u7bb1",
+                "equipId": 2602,
+                "value": 2000,
+                "eventFlag": 11017170,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "6305": {
+                "name": "2000000\u30ce\u30fc\u30de\u30eb\u77e2",
+                "equipId": 2000000,
+                "value": 10
+            },
+            "6306": {
+                "name": "2001000\u5927\u304d\u306a\u77e2",
+                "equipId": 2001000,
+                "value": 50
+            },
+            "6307": {
+                "name": "2006000\u5b89\u3044\u77e2",
+                "equipId": 2006000,
+                "value": 3
+            },
+            "6308": {
+                "name": "2100000\u666e\u901a\u306e\u592a\u77e2",
+                "equipId": 2100000,
+                "value": 30
+            },
+            "6309": {
+                "name": "2101000\u30d8\u30d3\u30fc\u30dc\u30eb\u30c8",
+                "equipId": 2101000,
+                "value": 100
+            },
+            "6310": {
+                "name": "2103000\u5b89\u3044\u592a\u77e2",
+                "equipId": 2103000,
+                "value": 10
+            },
+            "6410": {
+                "name": "260\u7dd1\u82b1\u8349",
+                "equipId": 260,
+                "value": 1200,
+                "equipType": 3
+            },
+            "6411": {
+                "name": "270\u8840\u8d64\u306e\u82d4\u7389",
+                "equipId": 270,
+                "value": 400,
+                "equipType": 3
+            },
+            "6412": {
+                "name": "271\u6bd2\u7d2b\u306e\u82d4\u7389",
+                "equipId": 271,
+                "value": 600,
+                "equipType": 3
+            },
+            "6413": {
+                "name": "272\u6bd2\u7d2b\u306e\u82b1\u82d4\u7389",
+                "equipId": 272,
+                "value": 1500,
+                "equipType": 3
+            },
+            "6414": {
+                "name": "290\u6295\u3052\u30ca\u30a4\u30d5",
+                "equipId": 290,
+                "value": 30,
+                "equipType": 3
+            },
+            "6415": {
+                "name": "292\u706b\u708e\u58f7",
+                "equipId": 292,
+                "value": 100,
+                "equipType": 3
+            },
+            "6416": {
+                "name": "294\u8a98\u3044\u982d\u84cb",
+                "equipId": 294,
+                "value": 800,
+                "equipType": 3
+            },
+            "6417": {
+                "name": "296\u6c37\u7d50\u584a",
+                "equipId": 296,
+                "value": 800,
+                "equipType": 3
+            },
+            "6418": {
+                "name": "297\u9ed2\u3044\u706b\u708e\u58f7",
+                "equipId": 297,
+                "value": 800,
+                "equipType": 3
+            },
+            "6419": {
+                "name": "330\u5e30\u9084\u306e\u9aa8\u7247",
+                "equipId": 330,
+                "value": 600,
+                "equipType": 3
+            },
+            "6420": {
+                "name": "500\u4eba\u9593\u6027",
+                "equipId": 500,
+                "value": 10000,
+                "eventFlag": 11217100,
+                "sellQuantity": 13,
+                "equipType": 3
+            },
+            "6421": {
+                "name": "2000000\u30ce\u30fc\u30de\u30eb\u77e2",
+                "equipId": 2000000,
+                "value": 20
+            },
+            "6422": {
+                "name": "2001000\u5927\u304d\u306a\u77e2",
+                "equipId": 2001000,
+                "value": 100
+            },
+            "6423": {
+                "name": "2002000\u7fbd\u6839\u77e2",
+                "equipId": 2002000,
+                "value": 200
+            },
+            "6424": {
+                "name": "2100000\u666e\u901a\u306e\u592a\u77e2",
+                "equipId": 2100000,
+                "value": 50
+            },
+            "6425": {
+                "name": "2101000\u30d8\u30d3\u30fc\u30dc\u30eb\u30c8",
+                "equipId": 2101000,
+                "value": 150
+            },
+            "6426": {
+                "name": "2102000\u30b9\u30ca\u30a4\u30d1\u30fc\u30dc\u30eb\u30c8",
+                "equipId": 2102000,
+                "value": 400
+            },
+            "6500": {
+                "name": "280\u4fee\u7406\u306e\u5149\u7c89",
+                "equipId": 280,
+                "value": 300,
+                "equipType": 3
+            },
+            "6501": {
+                "name": "311\u9ec4\u91d1\u677e\u8102",
+                "equipId": 311,
+                "value": 1000,
+                "eventFlag": 11217000,
+                "sellQuantity": 6,
+                "equipType": 3
+            },
+            "6502": {
+                "name": "3400\u9b54\u8853\uff1a\u898b\u3048\u306a\u3044\u6b66\u5668",
+                "equipId": 3400,
+                "value": 2000,
+                "eventFlag": 11207000,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "6503": {
+                "name": "3410\u9b54\u8853\uff1a\u898b\u3048\u306a\u3044\u4f53",
+                "equipId": 3410,
+                "value": 2000,
+                "eventFlag": 11207010,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "6504": {
+                "name": "3500\u9b54\u8853\uff1a\u7167\u3089\u3059\u5149",
+                "equipId": 3500,
+                "value": 1000,
+                "eventFlag": 11207020,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "6505": {
+                "name": "3530\u9b54\u8853\uff1a\u4fee\u5fa9",
+                "equipId": 3530,
+                "value": 10000,
+                "eventFlag": 11207030,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "6506": {
+                "name": "3550\u9b54\u8853\uff1a\u64ec\u614b",
+                "equipId": 3550,
+                "value": 3000,
+                "eventFlag": 11207040,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "6507": {
+                "name": "1305000\u30a6\u30fc\u30e9\u30b7\u30fc\u30eb\u306e\u767d\u679d",
+                "equipId": 1305000,
+                "value": 1000
+            },
+            "6600": {
+                "name": "293\u7cde\u56e3\u5b50",
+                "equipId": 293,
+                "value": 200,
+                "equipType": 3
+            },
+            "6601": {
+                "name": "330\u5e30\u9084\u306e\u9aa8\u7247",
+                "equipId": 330,
+                "value": 300,
+                "equipType": 3
+            },
+            "6602": {
+                "name": "370\u4e03\u8272\u77f3",
+                "equipId": 370,
+                "value": 10,
+                "equipType": 3
+            },
+            "6603": {
+                "name": "510\u4eba\u9762\u300c\u3053\u3093\u306b\u3061\u306f\u300d",
+                "equipId": 510,
+                "value": 5,
+                "eventFlag": 11217010,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "6604": {
+                "name": "511\u4eba\u9762\u300c\u3042\u308a\u304c\u3068\u3046\u300d",
+                "equipId": 511,
+                "value": 5,
+                "eventFlag": 11217020,
+                "sellQuantity": 1,
+                "equipType": 3
+            },
+            "6608": {
+                "name": "1000\u6954\u77f3\u306e\u6b20\u7247",
+                "equipId": 1000,
+                "value": 800,
+                "equipType": 3
+            },
+            "6609": {
+                "name": "1010\u6954\u77f3\u306e\u5927\u6b20\u7247",
+                "equipId": 1010,
+                "value": 3800,
+                "equipType": 3
+            },
+            "6610": {
+                "name": "1020\u7dd1\u6954\u306e\u5927\u6b20\u7247",
+                "equipId": 1020,
+                "value": 4800,
+                "equipType": 3
+            },
+            "6611": {
+                "name": "2008000\u30b4\u30fc\u306e\u5927\u77e2",
+                "equipId": 2008000,
+                "value": 650
+            },
+            "10000": {
+                "name": "\u9b54\u8853\uff1a\u30bd\u30a6\u30eb\u306e\u77e23000",
+                "equipId": 3000,
+                "value": 0,
+                "mtrlId": 3000,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10001": {
+                "name": "\u9b54\u8853\uff1a\u5f37\u3044\u30bd\u30a6\u30eb\u306e\u77e23010",
+                "equipId": 3010,
+                "value": 0,
+                "mtrlId": 3010,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10002": {
+                "name": "\u9b54\u8853\uff1a\u30bd\u30a6\u30eb\u306e\u592a\u77e23020",
+                "equipId": 3020,
+                "value": 0,
+                "mtrlId": 3020,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10003": {
+                "name": "\u9b54\u8853\uff1a\u5f37\u3044\u30bd\u30a6\u30eb\u306e\u592a\u77e23030",
+                "equipId": 3030,
+                "value": 0,
+                "mtrlId": 3030,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10004": {
+                "name": "\u9b54\u8853\uff1a\u8ffd\u5c3e\u3059\u308b\u30bd\u30a6\u30eb\u306e\u584a3040",
+                "equipId": 3040,
+                "value": 0,
+                "mtrlId": 3040,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10005": {
+                "name": "\u9b54\u8853\uff1a\u8ffd\u5c3e\u3059\u308b\u30bd\u30a6\u30eb\u306e\u7d50\u6676\u584a3050",
+                "equipId": 3050,
+                "value": 0,
+                "mtrlId": 3050,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10008": {
+                "name": "\u9b54\u8853\uff1a\u30bd\u30a6\u30eb\u306e\u69cd3060",
+                "equipId": 3060,
+                "value": 0,
+                "mtrlId": 3060,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10009": {
+                "name": "\u9b54\u8853\uff1a\u30bd\u30a6\u30eb\u306e\u7d50\u6676\u69cd3070",
+                "equipId": 3070,
+                "value": 0,
+                "mtrlId": 3070,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10010": {
+                "name": "\u9b54\u8853\uff1a\u9b54\u6cd5\u306e\u6b66\u56683100",
+                "equipId": 3100,
+                "value": 0,
+                "mtrlId": 3100,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10011": {
+                "name": "\u9b54\u8853\uff1a\u5f37\u3044\u9b54\u6cd5\u306e\u6b66\u56683110",
+                "equipId": 3110,
+                "value": 0,
+                "mtrlId": 3110,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10012": {
+                "name": "\u9b54\u8853\uff1a\u7d50\u6676\u9b54\u6cd5\u306e\u6b66\u56683120",
+                "equipId": 3120,
+                "value": 0,
+                "mtrlId": 3120,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10013": {
+                "name": "\u9b54\u8853\uff1a\u9b54\u6cd5\u306e\u76fe3300",
+                "equipId": 3300,
+                "value": 0,
+                "mtrlId": 3300,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10014": {
+                "name": "\u9b54\u8853\uff1a\u5f37\u3044\u9b54\u6cd5\u306e\u76fe3310",
+                "equipId": 3310,
+                "value": 0,
+                "mtrlId": 3310,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10015": {
+                "name": "\u9b54\u8853\uff1a\u898b\u3048\u306a\u3044\u6b66\u56683400",
+                "equipId": 3400,
+                "value": 0,
+                "mtrlId": 3400,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10016": {
+                "name": "\u9b54\u8853\uff1a\u898b\u3048\u306a\u3044\u4f533410",
+                "equipId": 3410,
+                "value": 0,
+                "mtrlId": 3410,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10017": {
+                "name": "\u9b54\u8853\uff1a\u7167\u3089\u3059\u51493500",
+                "equipId": 3500,
+                "value": 0,
+                "mtrlId": 3500,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10018": {
+                "name": "\u9b54\u8853\uff1a\u97f3\u7121\u30573510",
+                "equipId": 3510,
+                "value": 0,
+                "mtrlId": 3510,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10019": {
+                "name": "\u9b54\u8853\uff1a\u97f3\u9001\u308a3520",
+                "equipId": 3520,
+                "value": 0,
+                "mtrlId": 3520,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10020": {
+                "name": "\u9b54\u8853\uff1a\u4fee\u5fa93530",
+                "equipId": 3530,
+                "value": 0,
+                "mtrlId": 3530,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10021": {
+                "name": "\u9b54\u8853\uff1a\u843d\u4e0b\u5236\u5fa13540",
+                "equipId": 3540,
+                "value": 0,
+                "mtrlId": 3540,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10022": {
+                "name": "\u9b54\u8853\uff1a\u64ec\u614b3550",
+                "equipId": 3550,
+                "value": 0,
+                "mtrlId": 3550,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10023": {
+                "name": "\u9b54\u8853\uff1a\u89e3\u546a3600",
+                "equipId": 3600,
+                "value": 0,
+                "mtrlId": 3600,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10024": {
+                "name": "\u9b54\u8853\uff1a\u6cbb\u76523610",
+                "equipId": 3610,
+                "value": 0,
+                "mtrlId": 3610,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10025": {
+                "name": "\u9b54\u8853\uff1a\u767d\u7adc\u306e\u606f3700",
+                "equipId": 3700,
+                "value": 0,
+                "mtrlId": 3700,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10026": {
+                "name": "\u546a\u8853\uff1a\u706b\u74034000",
+                "equipId": 4000,
+                "value": 0,
+                "mtrlId": 4000,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10027": {
+                "name": "\u546a\u8853\uff1a\u706b\u306e\u73894010",
+                "equipId": 4010,
+                "value": 0,
+                "mtrlId": 4010,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10028": {
+                "name": "\u546a\u8853\uff1a\u5927\u706b\u74034020",
+                "equipId": 4020,
+                "value": 0,
+                "mtrlId": 4020,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10029": {
+                "name": "\u546a\u8853\uff1a\u708e\u306e\u5d504030",
+                "equipId": 4030,
+                "value": 0,
+                "mtrlId": 4030,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10030": {
+                "name": "\u546a\u8853\uff1a\u708e\u306e\u5927\u5d504040",
+                "equipId": 4040,
+                "value": 0,
+                "mtrlId": 4040,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10031": {
+                "name": "\u546a\u8853\uff1a\u706b\u708e\u5674\u6d414050",
+                "equipId": 4050,
+                "value": 0,
+                "mtrlId": 4050,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10034": {
+                "name": "\u546a\u8853\uff1a\u306a\u304e\u6255\u3046\u708e4060",
+                "equipId": 4060,
+                "value": 0,
+                "mtrlId": 4060,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10035": {
+                "name": "\u546a\u8853\uff1a\u767a\u706b4100",
+                "equipId": 4100,
+                "value": 0,
+                "mtrlId": 4100,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10036": {
+                "name": "\u546a\u8853\uff1a\u5927\u767a\u706b4110",
+                "equipId": 4110,
+                "value": 0,
+                "mtrlId": 4110,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10037": {
+                "name": "\u546a\u8853\uff1a\u6bd2\u306e\u97274200",
+                "equipId": 4200,
+                "value": 0,
+                "mtrlId": 4200,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10038": {
+                "name": "\u546a\u8853\uff1a\u731b\u6bd2\u306e\u97274210",
+                "equipId": 4210,
+                "value": 0,
+                "mtrlId": 4210,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10039": {
+                "name": "\u546a\u8853\uff1a\u9178\u306e\u5674\u5c044220",
+                "equipId": 4220,
+                "value": 0,
+                "mtrlId": 4220,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10040": {
+                "name": "\u546a\u8853\uff1a\u9244\u306e\u4f534300",
+                "equipId": 4300,
+                "value": 0,
+                "mtrlId": 4300,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10041": {
+                "name": "\u546a\u8853\uff1a\u6fc0\u3057\u3044\u767a\u6c574310",
+                "equipId": 4310,
+                "value": 0,
+                "mtrlId": 4310,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10042": {
+                "name": "\u546a\u8853\uff1a\u4e0d\u6b7b\u306e\u9b45\u4e864360",
+                "equipId": 4360,
+                "value": 0,
+                "mtrlId": 4360,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10043": {
+                "name": "\u546a\u8853\uff1a\u5185\u306a\u308b\u5927\u529b4400",
+                "equipId": 4400,
+                "value": 0,
+                "mtrlId": 4400,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10044": {
+                "name": "\u546a\u8853\uff1a\u6df7\u6c8c\u306e\u5927\u706b\u74034500",
+                "equipId": 4500,
+                "value": 0,
+                "mtrlId": 4500,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10045": {
+                "name": "\u546a\u8853\uff1a\u6df7\u6c8c\u306e\u5d504510",
+                "equipId": 4510,
+                "value": 0,
+                "mtrlId": 4510,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10046": {
+                "name": "\u546a\u8853\uff1a\u306a\u304e\u6255\u3046\u6df7\u6c8c\u306e\u708e4520",
+                "equipId": 4520,
+                "value": 0,
+                "mtrlId": 4520,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10047": {
+                "name": "\u5947\u8de1\uff1a\u56de\u5fa95000",
+                "equipId": 5000,
+                "value": 0,
+                "mtrlId": 5000,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10048": {
+                "name": "\u5947\u8de1\uff1a\u5927\u56de\u5fa95010",
+                "equipId": 5010,
+                "value": 0,
+                "mtrlId": 5010,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10049": {
+                "name": "\u5947\u8de1\uff1a\u9650\u3089\u308c\u305f\u5927\u56de\u5fa95020",
+                "equipId": 5020,
+                "value": 0,
+                "mtrlId": 5020,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10050": {
+                "name": "\u5947\u8de1\uff1a\u592a\u967d\u306e\u5149\u306e\u7652\u30575030",
+                "equipId": 5030,
+                "value": 0,
+                "mtrlId": 5030,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10051": {
+                "name": "\u5947\u8de1\uff1a\u751f\u547d\u6e67\u304d5040",
+                "equipId": 5040,
+                "value": 0,
+                "mtrlId": 5040,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10052": {
+                "name": "\u5947\u8de1\uff1a\u592a\u967d\u306e\u5149\u306e\u6075\u307f5050",
+                "equipId": 5050,
+                "value": 0,
+                "mtrlId": 5050,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10053": {
+                "name": "\u5947\u8de1\uff1a\u5893\u738b\u306e\u5263\u821e5100",
+                "equipId": 5100,
+                "value": 0,
+                "mtrlId": 5100,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10054": {
+                "name": "\u5947\u8de1\uff1a\u5893\u738b\u306e\u5927\u5263\u821e5110",
+                "equipId": 5110,
+                "value": 0,
+                "mtrlId": 5110,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10055": {
+                "name": "\u5947\u8de1\uff1a\u6b7b\u306e\u56de\u907f5200",
+                "equipId": 5200,
+                "value": 0,
+                "mtrlId": 5200,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10056": {
+                "name": "\u5947\u8de1\uff1a\u5e30\u90845210",
+                "equipId": 5210,
+                "value": 0,
+                "mtrlId": 5210,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10057": {
+                "name": "\u5947\u8de1\uff1a\u30d5\u30a9\u30fc\u30b95300",
+                "equipId": 5300,
+                "value": 0,
+                "mtrlId": 5300,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10058": {
+                "name": "\u5947\u8de1\uff1a\u795e\u306e\u6012\u308a5310",
+                "equipId": 5310,
+                "value": 0,
+                "mtrlId": 5310,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10059": {
+                "name": "\u5947\u8de1\uff1a\u653e\u3064\u30d5\u30a9\u30fc\u30b95320",
+                "equipId": 5320,
+                "value": 0,
+                "mtrlId": 5320,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10060": {
+                "name": "\u5947\u8de1\uff1a\u52a9\u8a00\u6c42\u30815400",
+                "equipId": 5400,
+                "value": 0,
+                "mtrlId": 5400,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10061": {
+                "name": "\u5947\u8de1\uff1a\u96f7\u306e\u69cd5500",
+                "equipId": 5500,
+                "value": 0,
+                "mtrlId": 5500,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10062": {
+                "name": "\u5947\u8de1\uff1a\u96f7\u306e\u5927\u69cd5510",
+                "equipId": 5510,
+                "value": 0,
+                "mtrlId": 5510,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10063": {
+                "name": "\u5947\u8de1\uff1a\u592a\u967d\u306e\u5149\u306e\u69cd5520",
+                "equipId": 5520,
+                "value": 0,
+                "mtrlId": 5520,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10064": {
+                "name": "\u5947\u8de1\uff1a\u9b54\u6cd5\u9632\u8b775600",
+                "equipId": 5600,
+                "value": 0,
+                "mtrlId": 5600,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10065": {
+                "name": "\u5947\u8de1\uff1a\u5f37\u5316\u9b54\u6cd5\u9632\u8b775610",
+                "equipId": 5610,
+                "value": 0,
+                "mtrlId": 5610,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10066": {
+                "name": "\u5947\u8de1\uff1a\u56e0\u679c\u5fdc\u58315700",
+                "equipId": 5700,
+                "value": 0,
+                "mtrlId": 5700,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10068": {
+                "name": "\u5947\u8de1\uff1a\u7de9\u3084\u304b\u306a\u5e73\u548c\u306e\u6b69\u307f5800",
+                "equipId": 5800,
+                "value": 0,
+                "mtrlId": 5800,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10069": {
+                "name": "\u5947\u8de1\uff1a\u6c88\u9ed9\u306e\u7981\u52475810",
+                "equipId": 5810,
+                "value": 0,
+                "mtrlId": 5810,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10070": {
+                "name": "\u5947\u8de1\uff1a\u592a\u967d\u306e\u5149\u306e\u52635900",
+                "equipId": 5900,
+                "value": 0,
+                "mtrlId": 5900,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10071": {
+                "name": "\u5947\u8de1\uff1a\u6697\u6708\u306e\u5149\u306e\u52635910",
+                "equipId": 5910,
+                "value": 0,
+                "mtrlId": 5910,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10072": {
+                "name": "\u9b54\u8853\uff1a\u95c7\u306e\u73893710",
+                "equipId": 3710,
+                "value": 0,
+                "mtrlId": 3710,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10073": {
+                "name": "\u9b54\u8853\uff1a\u95c7\u306e\u98db\u6cab3720",
+                "equipId": 3720,
+                "value": 0,
+                "mtrlId": 3720,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10074": {
+                "name": "\u9b54\u8853\uff1a\u95c7\u306e\u97273730",
+                "equipId": 3730,
+                "value": 0,
+                "mtrlId": 3730,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10075": {
+                "name": "\u9b54\u8853\uff1a\u8ffd\u3046\u8005\u305f\u30613740",
+                "equipId": 3740,
+                "value": 0,
+                "mtrlId": 3740,
+                "shopType": 2,
+                "equipType": 4
+            },
+            "10076": {
+                "name": "\u546a\u8853\uff1a\u9ed2\u708e4530",
+                "equipId": 4530,
+                "value": 0,
+                "mtrlId": 4530,
+                "shopType": 2,
+                "equipType": 4
+            }
+        }
+    }
+}

@@ -1,0 +1,397 @@
+{
+    "entry_id": 41,
+    "path": "N:\\FRPG\\data\\INTERROOT_x64\\param\\GameParam\\CoolTimeParam.param",
+    "flags": 2,
+    "data": {
+        "param_type": "COOL_TIME_PARAM_ST",
+        "big_endian": false,
+        "unknown": 1,
+        "paramdef_data_version": 1,
+        "flags1": 1,
+        "flags2": 0,
+        "paramdef_format_version": 0,
+        "undecodable_row_names": [],
+        "rows": {
+            "101": {
+                "name": "\u4e71\u5165 \u30ec\u30d9\u30eb1",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 600.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "102": {
+                "name": "\u4e71\u5165 \u30ec\u30d9\u30eb2",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 600.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "103": {
+                "name": "\u4e71\u5165 \u30ec\u30d9\u30eb3",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 480.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "104": {
+                "name": "\u4e71\u5165 \u30ec\u30d9\u30eb4",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 480.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "105": {
+                "name": "\u4e71\u5165 \u30ec\u30d9\u30eb5",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 480.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "106": {
+                "name": "\u4e71\u5165 \u30ec\u30d9\u30eb6",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 300.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "107": {
+                "name": "\u4e71\u5165 \u30ec\u30d9\u30eb7",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 300.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "108": {
+                "name": "\u4e71\u5165 \u30ec\u30d9\u30eb8",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 300.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "109": {
+                "name": "\u4e71\u5165 \u30ec\u30d9\u30eb9",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 180.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "110": {
+                "name": "\u4e71\u5165 \u30ec\u30d9\u30eb10",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 180.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "201": {
+                "name": "\u76d7\u8cca\u56e3 \u30ec\u30d9\u30eb1",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 600.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "202": {
+                "name": "\u76d7\u8cca\u56e3 \u30ec\u30d9\u30eb2",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 600.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "203": {
+                "name": "\u76d7\u8cca\u56e3 \u30ec\u30d9\u30eb3",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 480.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "204": {
+                "name": "\u76d7\u8cca\u56e3 \u30ec\u30d9\u30eb4",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 480.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "205": {
+                "name": "\u76d7\u8cca\u56e3 \u30ec\u30d9\u30eb5",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 480.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "206": {
+                "name": "\u76d7\u8cca\u56e3 \u30ec\u30d9\u30eb6",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 300.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "207": {
+                "name": "\u76d7\u8cca\u56e3 \u30ec\u30d9\u30eb7",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 300.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "208": {
+                "name": "\u76d7\u8cca\u56e3 \u30ec\u30d9\u30eb8",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 300.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "209": {
+                "name": "\u76d7\u8cca\u56e3 \u30ec\u30d9\u30eb9",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 180.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "210": {
+                "name": "\u76d7\u8cca\u56e3 \u30ec\u30d9\u30eb10",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 180.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "301": {
+                "name": "\u738b\u6bcd\u5f1f \u30ec\u30d9\u30eb1",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 600.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "302": {
+                "name": "\u738b\u6bcd\u5f1f \u30ec\u30d9\u30eb2",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 600.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "303": {
+                "name": "\u738b\u6bcd\u5f1f \u30ec\u30d9\u30eb3",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 480.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "304": {
+                "name": "\u738b\u6bcd\u5f1f \u30ec\u30d9\u30eb4",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 480.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "305": {
+                "name": "\u738b\u6bcd\u5f1f \u30ec\u30d9\u30eb5",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 480.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "306": {
+                "name": "\u738b\u6bcd\u5f1f \u30ec\u30d9\u30eb6",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 300.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "307": {
+                "name": "\u738b\u6bcd\u5f1f \u30ec\u30d9\u30eb7",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 300.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "308": {
+                "name": "\u738b\u6bcd\u5f1f \u30ec\u30d9\u30eb8",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 300.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "309": {
+                "name": "\u738b\u6bcd\u5f1f \u30ec\u30d9\u30eb9",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 180.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "310": {
+                "name": "\u738b\u6bcd\u5f1f \u30ec\u30d9\u30eb10",
+                "limitationTime_0": 900.0,
+                "observationTime_0": 180.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 300.0,
+                "observationTime_2": 200.0
+            },
+            "401": {
+                "name": "\u30cb\u30c8\u306e\u62db\u5f85\u72b6 \u30ec\u30d9\u30eb1",
+                "limitationTime_0": 600.0,
+                "observationTime_0": 450.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 600.0,
+                "observationTime_2": 450.0,
+                "limitationTime_3": 600.0,
+                "observationTime_3": 450.0
+            },
+            "402": {
+                "name": "\u30cb\u30c8\u306e\u62db\u5f85\u72b6 \u30ec\u30d9\u30eb2",
+                "limitationTime_0": 600.0,
+                "observationTime_0": 450.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 600.0,
+                "observationTime_2": 450.0,
+                "limitationTime_3": 600.0,
+                "observationTime_3": 450.0
+            },
+            "403": {
+                "name": "\u30cb\u30c8\u306e\u62db\u5f85\u72b6 \u30ec\u30d9\u30eb3",
+                "limitationTime_0": 600.0,
+                "observationTime_0": 450.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 600.0,
+                "observationTime_2": 450.0,
+                "limitationTime_3": 600.0,
+                "observationTime_3": 450.0
+            },
+            "404": {
+                "name": "\u30cb\u30c8\u306e\u62db\u5f85\u72b6 \u30ec\u30d9\u30eb4",
+                "limitationTime_0": 600.0,
+                "observationTime_0": 450.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 600.0,
+                "observationTime_2": 450.0,
+                "limitationTime_3": 600.0,
+                "observationTime_3": 450.0
+            },
+            "405": {
+                "name": "\u30cb\u30c8\u306e\u62db\u5f85\u72b6 \u30ec\u30d9\u30eb5",
+                "limitationTime_0": 600.0,
+                "observationTime_0": 450.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 600.0,
+                "observationTime_2": 450.0,
+                "limitationTime_3": 600.0,
+                "observationTime_3": 450.0
+            },
+            "406": {
+                "name": "\u30cb\u30c8\u306e\u62db\u5f85\u72b6 \u30ec\u30d9\u30eb6",
+                "limitationTime_0": 600.0,
+                "observationTime_0": 450.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 600.0,
+                "observationTime_2": 450.0,
+                "limitationTime_3": 600.0,
+                "observationTime_3": 450.0
+            },
+            "407": {
+                "name": "\u30cb\u30c8\u306e\u62db\u5f85\u72b6 \u30ec\u30d9\u30eb7",
+                "limitationTime_0": 600.0,
+                "observationTime_0": 450.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 600.0,
+                "observationTime_2": 450.0,
+                "limitationTime_3": 600.0,
+                "observationTime_3": 450.0
+            },
+            "408": {
+                "name": "\u30cb\u30c8\u306e\u62db\u5f85\u72b6 \u30ec\u30d9\u30eb8",
+                "limitationTime_0": 600.0,
+                "observationTime_0": 450.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 600.0,
+                "observationTime_2": 450.0,
+                "limitationTime_3": 600.0,
+                "observationTime_3": 450.0
+            },
+            "409": {
+                "name": "\u30cb\u30c8\u306e\u62db\u5f85\u72b6 \u30ec\u30d9\u30eb9",
+                "limitationTime_0": 600.0,
+                "observationTime_0": 450.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 600.0,
+                "observationTime_2": 450.0,
+                "limitationTime_3": 600.0,
+                "observationTime_3": 450.0
+            },
+            "410": {
+                "name": "\u30cb\u30c8\u306e\u62db\u5f85\u72b6 \u30ec\u30d9\u30eb10",
+                "limitationTime_0": 600.0,
+                "observationTime_0": 450.0,
+                "limitationTime_1": 600.0,
+                "observationTime_1": 450.0,
+                "limitationTime_2": 600.0,
+                "observationTime_2": 450.0,
+                "limitationTime_3": 600.0,
+                "observationTime_3": 450.0
+            }
+        }
+    }
+}

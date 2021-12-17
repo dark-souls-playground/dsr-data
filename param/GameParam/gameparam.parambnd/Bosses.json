@@ -1,0 +1,503 @@
+{
+    "entry_id": 31,
+    "path": "N:\\FRPG\\data\\INTERROOT_x64\\param\\GameParam\\GameAreaParam.param",
+    "flags": 2,
+    "data": {
+        "param_type": "GAME_AREA_PARAM_ST",
+        "big_endian": false,
+        "unknown": 0,
+        "paramdef_data_version": 1,
+        "flags1": 2,
+        "flags2": 0,
+        "paramdef_format_version": 0,
+        "undecodable_row_names": [],
+        "rows": {
+            "0": {
+                "name": "\u30c6\u30b9\u30c8",
+                "bonusSoul_single": 10000,
+                "bonusSoul_multi": 10000
+            },
+            "1": {
+                "name": "\u30c6\u30b9\u30c81",
+                "bonusSoul_single": 10000,
+                "bonusSoul_multi": 10000
+            },
+            "100": {
+                "name": "\u77f3\u67f1_\u306a\u308a\u305d\u3053\u306a\u3044",
+                "bonusSoul_single": 15000,
+                "bonusSoul_multi": 15000
+            },
+            "200": {
+                "name": "\u738b\u57ce1_\u30d5\u30a1\u30e9\u30f3\u30af\u30b9\uff08\u672c\u4f53\uff09",
+                "bonusSoul_single": 1270,
+                "bonusSoul_multi": 1270
+            },
+            "201": {
+                "name": "\u738b\u57ce2_\u738b\u306e\u76fe",
+                "bonusSoul_single": 8570,
+                "bonusSoul_multi": 8570
+            },
+            "202": {
+                "name": "\u738b\u57ce3_\u738b\u306e\u5263",
+                "bonusSoul_single": 35850,
+                "bonusSoul_multi": 35850
+            },
+            "203": {
+                "name": "\u738b\u57ce4_\u30ec\u30f3\u30c9\u30eb\u738b",
+                "bonusSoul_single": 75500,
+                "bonusSoul_multi": 75500
+            },
+            "301": {
+                "name": "\u53e4\u78261_\u5be9\u5224\u8005",
+                "bonusSoul_single": 11700,
+                "bonusSoul_multi": 11700
+            },
+            "302": {
+                "name": "\u53e4\u78262_\u5d50\u306e\u6226\u58eb",
+                "bonusSoul_single": 33750,
+                "bonusSoul_multi": 33750
+            },
+            "303": {
+                "name": "\u53e4\u78263_\u5d50\u306e\u7363",
+                "bonusSoul_single": 40400,
+                "bonusSoul_multi": 40400
+            },
+            "400": {
+                "name": "\u7262\u57ce1_\u30ab\u30df\u30b5\u30de",
+                "bonusSoul_single": 8430,
+                "bonusSoul_multi": 8430
+            },
+            "401": {
+                "name": "\u7262\u57ce2_\u30ad\u30e1\u30e9",
+                "bonusSoul_single": 13880,
+                "bonusSoul_multi": 13880
+            },
+            "402": {
+                "name": "\u7262\u57ce3_\u53ec\u559a\uff2e\uff30\uff23",
+                "bonusSoul_single": 24700,
+                "bonusSoul_multi": 24700
+            },
+            "500": {
+                "name": "\u4e0d\u6d441_\u86ed\u30c7\u30fc\u30e2\u30f3",
+                "bonusSoul_single": 8249,
+                "bonusSoul_multi": 8249
+            },
+            "501": {
+                "name": "\u4e0d\u6d442_\u8805\u305f\u304b\u308a",
+                "bonusSoul_single": 33433,
+                "bonusSoul_multi": 33433
+            },
+            "502": {
+                "name": "\u4e0d\u6d443_\u8056\u5973\u30ea\u30fc\u30d6\u30e9",
+                "bonusSoul_single": 23400,
+                "bonusSoul_multi": 23400
+            },
+            "600": {
+                "name": "\u5751\u90531_\u5927\u8718\u86db",
+                "bonusSoul_single": 5950,
+                "bonusSoul_multi": 5950
+            },
+            "601": {
+                "name": "\u5751\u90532_\u708e\u602a\u4eba",
+                "bonusSoul_single": 22500,
+                "bonusSoul_multi": 22500
+            },
+            "602": {
+                "name": "\u5751\u90533_\u30c9\u30e9\u30b4\u30f3\u30c7\u30fc\u30e2\u30f3(\u5751\u9053)",
+                "bonusSoul_single": 26800,
+                "bonusSoul_multi": 26800
+            },
+            "801": {
+                "name": "\u30c1\u30e5\u30fc\u30c8\u30ea\u30a2\u30eb_\u30c7\u30d6\u30c7\u30fc\u30e2\u30f3",
+                "bonusSoul_single": 1000,
+                "bonusSoul_multi": 1000
+            },
+            "1000800": {
+                "name": "\u57ce\u4e0b2_\u8caa\u98df\u30c9\u30e9\u30b4\u30f3",
+                "bonusSoul_single": 25000,
+                "bonusSoul_multi": 25000,
+                "humanityPointCountFlagIdTop": 8500,
+                "humanityDropPoint1": 100,
+                "humanityDropPoint2": 105,
+                "humanityDropPoint3": 110,
+                "humanityDropPoint4": 120,
+                "humanityDropPoint5": 140,
+                "humanityDropPoint6": 160,
+                "humanityDropPoint7": 190,
+                "humanityDropPoint8": 220,
+                "humanityDropPoint9": 255,
+                "humanityDropPoint10": 300
+            },
+            "1010700": {
+                "name": "\u57ce\u4e0b1_\u30cf\u30f3\u30de\u30fc\u30c7\u30fc\u30e2\u30f3",
+                "bonusSoul_single": 3000,
+                "bonusSoul_multi": 3000,
+                "humanityPointCountFlagIdTop": 8520,
+                "humanityDropPoint1": 100,
+                "humanityDropPoint2": 105,
+                "humanityDropPoint3": 110,
+                "humanityDropPoint4": 120,
+                "humanityDropPoint5": 140,
+                "humanityDropPoint6": 160,
+                "humanityDropPoint7": 190,
+                "humanityDropPoint8": 220,
+                "humanityDropPoint9": 255,
+                "humanityDropPoint10": 300
+            },
+            "1010750": {
+                "name": "\u57ce\u4e0b1_\u30ca\u30bf\u30c7\u30fc\u30e2\u30f3",
+                "bonusSoul_single": 6000,
+                "bonusSoul_multi": 6000,
+                "humanityPointCountFlagIdTop": 8540,
+                "humanityDropPoint1": 100,
+                "humanityDropPoint2": 105,
+                "humanityDropPoint3": 110,
+                "humanityDropPoint4": 120,
+                "humanityDropPoint5": 140,
+                "humanityDropPoint6": 160,
+                "humanityDropPoint7": 190,
+                "humanityDropPoint8": 220,
+                "humanityDropPoint9": 255,
+                "humanityDropPoint10": 300
+            },
+            "1010800": {
+                "name": "\u57ce\u4e0b1_\u30ac\u30fc\u30b4\u30a4\u30eb",
+                "bonusSoul_single": 10000,
+                "bonusSoul_multi": 10000,
+                "humanityPointCountFlagIdTop": 8560,
+                "humanityDropPoint1": 200,
+                "humanityDropPoint2": 210,
+                "humanityDropPoint3": 220,
+                "humanityDropPoint4": 240,
+                "humanityDropPoint5": 280,
+                "humanityDropPoint6": 320,
+                "humanityDropPoint7": 380,
+                "humanityDropPoint8": 440,
+                "humanityDropPoint9": 510,
+                "humanityDropPoint10": 600
+            },
+            "1100160": {
+                "name": "\u7d75\u753b\u4e16\u754c_\u534a\u7adc\u30d7\u30ea\u30b7\u30e9",
+                "bonusSoul_single": 30000,
+                "bonusSoul_multi": 30000,
+                "humanityPointCountFlagIdTop": 8600,
+                "humanityDropPoint1": 200,
+                "humanityDropPoint2": 210,
+                "humanityDropPoint3": 220,
+                "humanityDropPoint4": 240,
+                "humanityDropPoint5": 280,
+                "humanityDropPoint6": 320,
+                "humanityDropPoint7": 380,
+                "humanityDropPoint8": 440,
+                "humanityDropPoint9": 510,
+                "humanityDropPoint10": 600
+            },
+            "1200800": {
+                "name": "\u68ee\u5ead_\u8056\u5263\u306e\u72fc",
+                "bonusSoul_single": 40000,
+                "bonusSoul_multi": 40000,
+                "humanityPointCountFlagIdTop": 8640,
+                "humanityDropPoint1": 100,
+                "humanityDropPoint2": 105,
+                "humanityDropPoint3": 110,
+                "humanityDropPoint4": 120,
+                "humanityDropPoint5": 140,
+                "humanityDropPoint6": 160,
+                "humanityDropPoint7": 190,
+                "humanityDropPoint8": 220,
+                "humanityDropPoint9": 255,
+                "humanityDropPoint10": 300
+            },
+            "1200801": {
+                "name": "\u68ee\u5ead_\u30ab\u30b2\u30ed\u30a6\u9f8d",
+                "bonusSoul_single": 10000,
+                "bonusSoul_multi": 10000,
+                "humanityPointCountFlagIdTop": 8620,
+                "humanityDropPoint1": 100,
+                "humanityDropPoint2": 105,
+                "humanityDropPoint3": 110,
+                "humanityDropPoint4": 120,
+                "humanityDropPoint5": 140,
+                "humanityDropPoint6": 160,
+                "humanityDropPoint7": 190,
+                "humanityDropPoint8": 220,
+                "humanityDropPoint9": 255,
+                "humanityDropPoint10": 300
+            },
+            "1210401": {
+                "name": "\u904e\u53bb\u68ee_\u9ed2\u7adc",
+                "bonusSoul_single": 60000,
+                "bonusSoul_multi": 60000,
+                "humanityDropPoint1": 100,
+                "humanityDropPoint2": 105,
+                "humanityDropPoint3": 110,
+                "humanityDropPoint4": 120,
+                "humanityDropPoint5": 140,
+                "humanityDropPoint6": 160,
+                "humanityDropPoint7": 190,
+                "humanityDropPoint8": 220,
+                "humanityDropPoint9": 255,
+                "humanityDropPoint10": 300
+            },
+            "1210800": {
+                "name": "\u904e\u53bb\u68ee_\u91d1\u30ad\u30e1\u30e9",
+                "bonusSoul_single": 30000,
+                "bonusSoul_multi": 30000,
+                "humanityDropPoint1": 100,
+                "humanityDropPoint2": 105,
+                "humanityDropPoint3": 110,
+                "humanityDropPoint4": 120,
+                "humanityDropPoint5": 140,
+                "humanityDropPoint6": 160,
+                "humanityDropPoint7": 190,
+                "humanityDropPoint8": 220,
+                "humanityDropPoint9": 255,
+                "humanityDropPoint10": 300
+            },
+            "1210820": {
+                "name": "\u904e\u53bb\u68ee_\u30a2\u30eb\u30c8\u30ea\u30a6\u30b9",
+                "bonusSoul_single": 50000,
+                "bonusSoul_multi": 50000,
+                "humanityPointCountFlagIdTop": 8160,
+                "humanityDropPoint1": 100,
+                "humanityDropPoint2": 105,
+                "humanityDropPoint3": 110,
+                "humanityDropPoint4": 120,
+                "humanityDropPoint5": 140,
+                "humanityDropPoint6": 160,
+                "humanityDropPoint7": 190,
+                "humanityDropPoint8": 220,
+                "humanityDropPoint9": 255,
+                "humanityDropPoint10": 300
+            },
+            "1210840": {
+                "name": "\u904e\u53bb\u68ee_\u6df1\u6df5\u306e\u4e3b",
+                "bonusSoul_single": 60000,
+                "bonusSoul_multi": 60000,
+                "humanityPointCountFlagIdTop": 8180,
+                "humanityDropPoint1": 100,
+                "humanityDropPoint2": 105,
+                "humanityDropPoint3": 110,
+                "humanityDropPoint4": 120,
+                "humanityDropPoint5": 140,
+                "humanityDropPoint6": 160,
+                "humanityDropPoint7": 190,
+                "humanityDropPoint8": 220,
+                "humanityDropPoint9": 255,
+                "humanityDropPoint10": 300
+            },
+            "1300800": {
+                "name": "\u5893\u57301_\u4e09\u4eba\u7fbd\u7e54",
+                "bonusSoul_single": 15000,
+                "bonusSoul_multi": 15000,
+                "humanityPointCountFlagIdTop": 8660,
+                "humanityDropPoint1": 100,
+                "humanityDropPoint2": 105,
+                "humanityDropPoint3": 110,
+                "humanityDropPoint4": 120,
+                "humanityDropPoint5": 140,
+                "humanityDropPoint6": 160,
+                "humanityDropPoint7": 190,
+                "humanityDropPoint8": 220,
+                "humanityDropPoint9": 255,
+                "humanityDropPoint10": 300
+            },
+            "1310800": {
+                "name": "\u5893\u57302_\u5893\u738b\u30cb\u30c8",
+                "bonusSoul_single": 60000,
+                "bonusSoul_multi": 60000,
+                "humanityPointCountFlagIdTop": 8680,
+                "humanityDropPoint1": 100,
+                "humanityDropPoint2": 105,
+                "humanityDropPoint3": 110,
+                "humanityDropPoint4": 120,
+                "humanityDropPoint5": 140,
+                "humanityDropPoint6": 160,
+                "humanityDropPoint7": 190,
+                "humanityDropPoint8": 220,
+                "humanityDropPoint9": 255,
+                "humanityDropPoint10": 300
+            },
+            "1400800": {
+                "name": "\u5f71\u753a_\u7114\u306e\u9b54\u5973\u30af\u30e9\u30b0\u30b9\u30d1\u30a4\u30c0\u30fc",
+                "bonusSoul_single": 20000,
+                "bonusSoul_multi": 20000,
+                "humanityPointCountFlagIdTop": 8720,
+                "humanityDropPoint1": 300,
+                "humanityDropPoint2": 315,
+                "humanityDropPoint3": 330,
+                "humanityDropPoint4": 360,
+                "humanityDropPoint5": 420,
+                "humanityDropPoint6": 480,
+                "humanityDropPoint7": 570,
+                "humanityDropPoint8": 660,
+                "humanityDropPoint9": 765,
+                "humanityDropPoint10": 900
+            },
+            "1410400": {
+                "name": "\u5ec3\u90fd_\u30c7\u30d6\u30c7\u30fc\u30e2\u30f3",
+                "bonusSoul_single": 20000,
+                "bonusSoul_multi": 20000,
+                "humanityPointCountFlagIdTop": 8760,
+                "humanityDropPoint1": 100,
+                "humanityDropPoint2": 105,
+                "humanityDropPoint3": 110,
+                "humanityDropPoint4": 120,
+                "humanityDropPoint5": 140,
+                "humanityDropPoint6": 160,
+                "humanityDropPoint7": 190,
+                "humanityDropPoint8": 220,
+                "humanityDropPoint9": 255,
+                "humanityDropPoint10": 300
+            },
+            "1410600": {
+                "name": "\u5ec3\u90fd_\u721b\u308c\u7d9a\u3051\u308b\u3082\u306e",
+                "bonusSoul_single": 20000,
+                "bonusSoul_multi": 20000,
+                "humanityPointCountFlagIdTop": 8740,
+                "humanityDropPoint1": 100,
+                "humanityDropPoint2": 105,
+                "humanityDropPoint3": 110,
+                "humanityDropPoint4": 120,
+                "humanityDropPoint5": 140,
+                "humanityDropPoint6": 160,
+                "humanityDropPoint7": 190,
+                "humanityDropPoint8": 220,
+                "humanityDropPoint9": 255,
+                "humanityDropPoint10": 300
+            },
+            "1410700": {
+                "name": "\u5ec3\u90fd_\u30e0\u30ab\u30c7\u30fc\u30e2\u30f3",
+                "bonusSoul_single": 40000,
+                "bonusSoul_multi": 40000,
+                "humanityPointCountFlagIdTop": 8780,
+                "humanityDropPoint1": 100,
+                "humanityDropPoint2": 105,
+                "humanityDropPoint3": 110,
+                "humanityDropPoint4": 120,
+                "humanityDropPoint5": 140,
+                "humanityDropPoint6": 160,
+                "humanityDropPoint7": 190,
+                "humanityDropPoint8": 220,
+                "humanityDropPoint9": 255,
+                "humanityDropPoint10": 300
+            },
+            "1410800": {
+                "name": "\u5ec3\u90fd_\u30ad\u30f3\u30b0\u30a4\u30b6\u30ea\u30b9",
+                "bonusSoul_single": 60000,
+                "bonusSoul_multi": 60000,
+                "humanityPointCountFlagIdTop": 8800,
+                "humanityDropPoint1": 100,
+                "humanityDropPoint2": 105,
+                "humanityDropPoint3": 110,
+                "humanityDropPoint4": 120,
+                "humanityDropPoint5": 140,
+                "humanityDropPoint6": 160,
+                "humanityDropPoint7": 190,
+                "humanityDropPoint8": 220,
+                "humanityDropPoint9": 255,
+                "humanityDropPoint10": 300
+            },
+            "1500800": {
+                "name": "\u738b\u57ce1_\u30a2\u30a4\u30a2\u30f3\u30b4\u30fc\u30ec\u30e0",
+                "bonusSoul_single": 40000,
+                "bonusSoul_multi": 40000,
+                "humanityPointCountFlagIdTop": 8820,
+                "humanityDropPoint1": 100,
+                "humanityDropPoint2": 105,
+                "humanityDropPoint3": 110,
+                "humanityDropPoint4": 120,
+                "humanityDropPoint5": 140,
+                "humanityDropPoint6": 160,
+                "humanityDropPoint7": 190,
+                "humanityDropPoint8": 220,
+                "humanityDropPoint9": 255,
+                "humanityDropPoint10": 300
+            },
+            "1510650": {
+                "name": "\u738b\u57ce2_\u738b\u6bcd\u5f1f",
+                "bonusSoul_single": 40000,
+                "bonusSoul_multi": 40000
+            },
+            "1510801": {
+                "name": "\u738b\u57ce2_\u30d2\u30e5\u30fc\u30b8\u30b0\u30ea\u30d5\u30a3\u30b9",
+                "bonusSoul_single": 50000,
+                "bonusSoul_multi": 50000,
+                "humanityPointCountFlagIdTop": 8860,
+                "humanityDropPoint1": 100,
+                "humanityDropPoint2": 105,
+                "humanityDropPoint3": 110,
+                "humanityDropPoint4": 120,
+                "humanityDropPoint5": 140,
+                "humanityDropPoint6": 160,
+                "humanityDropPoint7": 190,
+                "humanityDropPoint8": 220,
+                "humanityDropPoint9": 255,
+                "humanityDropPoint10": 300
+            },
+            "1510811": {
+                "name": "\u738b\u57ce2_\u30e9\u30a4\u30c8\u30cb\u30f3\u30b0\u30b9\u30e2\u30a6",
+                "bonusSoul_single": 50000,
+                "bonusSoul_multi": 50000
+            },
+            "1600800": {
+                "name": "\u6df1\u6df5_\u30b8\u30e3\u30a4\u30fc\u30eb\u30c7\u30fc\u30e2\u30f3",
+                "bonusSoul_single": 60000,
+                "bonusSoul_multi": 60000,
+                "humanityPointCountFlagIdTop": 8880,
+                "humanityDropPoint1": 300,
+                "humanityDropPoint2": 315,
+                "humanityDropPoint3": 330,
+                "humanityDropPoint4": 360,
+                "humanityDropPoint5": 420,
+                "humanityDropPoint6": 480,
+                "humanityDropPoint7": 570,
+                "humanityDropPoint8": 660,
+                "humanityDropPoint9": 765,
+                "humanityDropPoint10": 900
+            },
+            "1700800": {
+                "name": "\u7d50\u6676\u5854_\u30b7\u30fc\u30b9",
+                "bonusSoul_single": 60000,
+                "bonusSoul_multi": 60000,
+                "humanityPointCountFlagIdTop": 8920,
+                "humanityDropPoint1": 300,
+                "humanityDropPoint2": 315,
+                "humanityDropPoint3": 330,
+                "humanityDropPoint4": 360,
+                "humanityDropPoint5": 420,
+                "humanityDropPoint6": 480,
+                "humanityDropPoint7": 570,
+                "humanityDropPoint8": 660,
+                "humanityDropPoint9": 765,
+                "humanityDropPoint10": 900
+            },
+            "1800800": {
+                "name": "\u5927\u5893_\u85aa\u306e\u738b",
+                "bonusSoul_single": 70000,
+                "bonusSoul_multi": 70000,
+                "humanityPointCountFlagIdTop": 8940,
+                "humanityDropPoint1": 100,
+                "humanityDropPoint2": 105,
+                "humanityDropPoint3": 110,
+                "humanityDropPoint4": 120,
+                "humanityDropPoint5": 140,
+                "humanityDropPoint6": 160,
+                "humanityDropPoint7": 190,
+                "humanityDropPoint8": 220,
+                "humanityDropPoint9": 255,
+                "humanityDropPoint10": 300
+            },
+            "1810800": {
+                "name": "\u30c1\u30e5\u30fc\u30c8\u30ea\u30a2\u30eb_\u30df\u30cb\u30c7\u30d6\u30c7\u30fc\u30e2\u30f3",
+                "bonusSoul_single": 2000,
+                "bonusSoul_multi": 2000
+            },
+            "1810810": {
+                "name": "\u30c1\u30e5\u30fc\u30c8\u30ea\u30a2\u30eb_\u30c7\u30d6\u30c7\u30fc\u30e2\u30f3",
+                "bonusSoul_single": 20000,
+                "bonusSoul_multi": 20000
+            }
+        }
+    }
+}

@@ -1,0 +1,220 @@
+{
+    "entry_id": 36,
+    "path": "N:\\FRPG\\data\\INTERROOT_x64\\param\\GameParam\\LockCamParam.param",
+    "flags": 2,
+    "data": {
+        "param_type": "LOCK_CAM_PARAM_ST",
+        "big_endian": false,
+        "unknown": 0,
+        "paramdef_data_version": 1,
+        "flags1": 2,
+        "flags2": 0,
+        "paramdef_format_version": 0,
+        "undecodable_row_names": [],
+        "rows": {
+            "0": {
+                "name": "\u30c7\u30d5\u30a9\u30eb\u30c8\u5024"
+            },
+            "1": {
+                "name": "\u53ec\u559a\u9b54\u6cd5\u5c04\u7a0b\u8ddd\u96e2\u6307\u5b9a\u7528"
+            },
+            "101": {
+                "name": "\u8fd1\u8ddd\u96e2",
+                "camDistTarget": 2.200000047683716,
+                "chrOrgOffset_Y": 1.2200000286102295
+            },
+            "102": {
+                "name": "\u4e2d\u8ddd\u96e2",
+                "camDistTarget": 3.200000047683716,
+                "chrOrgOffset_Y": 1.3200000524520874
+            },
+            "103": {
+                "name": "\u9060\u8ddd\u96e2",
+                "camDistTarget": 5.0,
+                "rotRangeMinX": -20.0,
+                "lockRotXShiftRatio": 0.4000000059604645,
+                "chrOrgOffset_Y": 1.600000023841858
+            },
+            "104": {
+                "name": "\u30e0\u30ab\u30c7\u5c02\u7528",
+                "camDistTarget": 6.0,
+                "rotRangeMinX": -20.0,
+                "lockRotXShiftRatio": 0.4000000059604645,
+                "chrOrgOffset_Y": 1.100000023841858
+            },
+            "105": {
+                "name": "\u30c9\u30e9\u30b4\u30f3\u30be\u30f3\u30d3\u5c02\u7528",
+                "camDistTarget": 2.5
+            },
+            "110": {
+                "name": "\u901a\u5e38_\u6697\u95c7",
+                "chrLockRangeMaxRadius": 7.0
+            },
+            "111": {
+                "name": "\u8fd1\u8ddd\u96e2_\u6697\u95c7",
+                "camDistTarget": 2.200000047683716,
+                "chrOrgOffset_Y": 1.2200000286102295,
+                "chrLockRangeMaxRadius": 7.0
+            },
+            "112": {
+                "name": "\u4e2d\u8ddd\u96e2_\u6697\u95c7",
+                "camDistTarget": 3.200000047683716,
+                "chrOrgOffset_Y": 1.3200000524520874,
+                "chrLockRangeMaxRadius": 7.0
+            },
+            "113": {
+                "name": "\u9060\u8ddd\u96e2_\u6697\u95c7",
+                "camDistTarget": 5.0,
+                "rotRangeMinX": -20.0,
+                "lockRotXShiftRatio": 0.4000000059604645,
+                "chrOrgOffset_Y": 1.600000023841858,
+                "chrLockRangeMaxRadius": 7.0
+            },
+            "200": {
+                "name": "\u3010\u30d7\u30ed\u30c8\u30de\u30c3\u30d7\u3011\u3061\u3087\u3063\u3068\u5e83\u3044",
+                "camDistTarget": 4.300000190734863,
+                "lockRotXShiftRatio": 0.4000000059604645,
+                "chrOrgOffset_Y": 1.3200000524520874
+            },
+            "210": {
+                "name": "\u3010DLC\u3011\u6df1\u6df5\u306e\u4e3b\u6226\u7528\u30ab\u30e1\u30e9",
+                "camDistTarget": 6.0,
+                "lockRotXShiftRatio": 0.30000001192092896,
+                "chrOrgOffset_Y": 1.6200000047683716
+            },
+            "211": {
+                "name": "\u3010DLC\u3011\u30a2\u30eb\u30c8\u30ea\u30a6\u30b9\u6226\u7528\u30ab\u30e1\u30e9",
+                "lockRotXShiftRatio": 0.30000001192092896
+            },
+            "212": {
+                "name": "\u3010DLC\u3011\u9ed2\u7adc\u6226\u7528\u30ab\u30e1\u30e9",
+                "camDistTarget": 6.0,
+                "lockRotXShiftRatio": 0.47999998927116394,
+                "chrOrgOffset_Y": 1.7599999904632568
+            },
+            "213": {
+                "name": "\u3010DLC\u3011\u9396\u4eba\u6226\u7528\u30ab\u30e1\u30e9",
+                "lockRotXShiftRatio": 0.4000000059604645
+            },
+            "214": {
+                "name": "\u3010DLC\u3011\u30b4\u30fc\u6226\u7528\u30ab\u30e1\u30e9",
+                "lockRotXShiftRatio": 0.550000011920929,
+                "chrOrgOffset_Y": 1.7200000286102295,
+                "camFovY": 46.0
+            },
+            "220": {
+                "name": "\u3010DLC\u3011\u95d8\u6280\u5834\u5c02\u7528\u30ed\u30c3\u30af\u30ab\u30e1\u30e9"
+            },
+            "1000": {
+                "name": "\u8caa\u98df\u30c9\u30e9\u30b4\u30f3\u5c02\u7528",
+                "camDistTarget": 6.0,
+                "lockRotXShiftRatio": 0.4000000059604645
+            },
+            "1010": {
+                "name": "\u30ac\u30fc\u30b4\u30a4\u30eb\u7528\u30ab\u30e1\u30e9",
+                "camDistTarget": 5.0,
+                "chrOrgOffset_Y": 1.7200000286102295
+            },
+            "1100": {
+                "name": "\u30101st\u30de\u30c3\u30d7\u3011\u3064\u308a\u6a4b",
+                "camDistTarget": 6.0,
+                "rotRangeMinX": -30.0,
+                "lockRotXShiftRatio": 0.4000000059604645,
+                "chrOrgOffset_Y": 1.7999999523162842,
+                "camFovY": 48.0
+            },
+            "1101": {
+                "name": "\u30101st\u30de\u30c3\u30d7\u3011\u9060\u8ddd\u96e2",
+                "camDistTarget": 5.5,
+                "rotRangeMinX": -30.0,
+                "lockRotXShiftRatio": 0.4000000059604645,
+                "chrOrgOffset_Y": 1.7000000476837158,
+                "camFovY": 45.0
+            },
+            "1102": {
+                "name": "\u30101st\u30de\u30c3\u30d7\u3011\u30dc\u30b9\u90e8\u5c4b",
+                "rotRangeMinX": -10.0,
+                "lockRotXShiftRatio": 0.699999988079071,
+                "chrOrgOffset_Y": 1.6200000047683716
+            },
+            "1103": {
+                "name": "\u30101st\u30de\u30c3\u30d7\u3011\u65e7\u30dc\u30b9\u90e8\u5c4b",
+                "rotRangeMinX": -55.0
+            },
+            "1210": {
+                "name": "\u3010DLC\u3011\u91d1\u30ad\u30e1\u30e9\u7528\u30ab\u30e1\u30e9",
+                "camDistTarget": 6.0,
+                "lockRotXShiftRatio": 0.20000000298023224,
+                "chrOrgOffset_Y": 1.6200000047683716
+            },
+            "1300": {
+                "name": "\u5893\u5834\u8fd1\u8ddd\u96e2",
+                "camDistTarget": 3.299999952316284,
+                "chrOrgOffset_Y": 1.3200000524520874,
+                "camFovY": 41.5
+            },
+            "1301": {
+                "name": "\u5893\u5834\u9060\u8ddd\u96e2",
+                "camDistTarget": 5.0,
+                "rotRangeMinX": -20.0,
+                "lockRotXShiftRatio": 0.4000000059604645,
+                "chrOrgOffset_Y": 1.600000023841858
+            },
+            "1410": {
+                "name": "\u5ec3\u90fd\u30a4\u30b6\u30ea\u30b9\u5c02\u7528",
+                "camDistTarget": 4.5,
+                "chrOrgOffset_Y": 1.6200000047683716,
+                "camFovY": 48.0
+            },
+            "1510": {
+                "name": "\u30ac\u30fc\u30b4\u30a4\u30eb\u7528\u30ab\u30e1\u30e9",
+                "camDistTarget": 5.0,
+                "chrOrgOffset_Y": 1.6200000047683716
+            },
+            "1511": {
+                "name": "\u30ac\u30fc\u30b4\u30a4\u30eb\u7528\u30ab\u30e1\u30e9_\u591c\u7528",
+                "camDistTarget": 5.0,
+                "chrOrgOffset_Y": 1.6200000047683716,
+                "chrLockRangeMaxRadius": 7.0
+            },
+            "1700": {
+                "name": "\u30b7\u30fc\u30b9\u6226\u95d8\u7528\u30ab\u30e1\u30e9",
+                "camDistTarget": 5.0,
+                "chrOrgOffset_Y": 1.6200000047683716
+            },
+            "10000": {
+                "name": "\u8fd1\u8ddd\u96e2\u30ab\u30e1\u30e9",
+                "camDistTarget": 2.200000047683716,
+                "chrOrgOffset_Y": 1.2200000286102295
+            },
+            "10001": {
+                "name": "\u4e2d\u8ddd\u96e2\u30ab\u30e1\u30e9",
+                "camDistTarget": 3.200000047683716,
+                "chrOrgOffset_Y": 1.149999976158142
+            },
+            "10002": {
+                "name": "\u9060\u8ddd\u96e2\u30ab\u30e1\u30e9",
+                "camDistTarget": 6.0,
+                "rotRangeMinX": -20.0,
+                "lockRotXShiftRatio": 0.4000000059604645,
+                "chrOrgOffset_Y": 1.7000000476837158
+            },
+            "10003": {
+                "name": "\u6697\u95c7\u30ed\u30c3\u30af",
+                "chrLockRangeMaxRadius": 7.0
+            },
+            "10004": {
+                "name": "\u3010\u30d7\u30ed\u30c8\u30de\u30c3\u30d7\u3011\u6697\u95c7",
+                "rotRangeMinX": -50.0,
+                "chrOrgOffset_Y": 1.6399999856948853,
+                "chrLockRangeMaxRadius": 7.0
+            },
+            "10005": {
+                "name": "\u3010\u30d7\u30ed\u30c8\u30de\u30c3\u30d7\u3011\u3061\u3087\u3063\u3068\u5e83\u3044",
+                "camDistTarget": 4.300000190734863,
+                "lockRotXShiftRatio": 0.4000000059604645,
+                "chrOrgOffset_Y": 1.3200000524520874
+            }
+        }
+    }
+}
